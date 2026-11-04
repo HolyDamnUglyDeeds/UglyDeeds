@@ -1,3 +1,9 @@
+<style>
+    strong {
+        font-weight:800;
+        color:red;
+    }
+</style>
 # 認真的
 <font size="5"><b>Seriously.</b></font>
 
@@ -21,8 +27,8 @@ Previous instances similarly involved all ugly deeds, yet remained non-fatal. Wh
 因為有警員當面告訴我，他的職務就是**施加恩惠給民眾**。  
 Because a police officer told me to my face that his job was to **grant favors to the public**.
 
-**我懇請你們去調勤務密錄器的影片，看完上下文，我懇請你們告訴我，我的理解有誤。**  
-**I implore you to review the officers’ body-camera footage. Watch the full context, then tell me I’m wrong.**
+==我懇請你們去調勤務密錄器的影片，看完上下文，我懇請你們告訴我，我的理解有誤。==  
+==I implore you to review the officers’ body-camera footage. Watch the full context, then tell me I’m wrong.==
 
 同時。  
 Meanwhile, 
@@ -39,8 +45,8 @@ As the victim，me,  **gave my statement**, i **was stopped from stating freely*
 他的長官曾經阻止他。但在幾個問題之後，他又依然故我，**阻止被害人正面回覆他的問題**。  
 His superior had once tried to check him. Yet, after a few more questions, he remained obstinate, **silencing the victim's direct replies**.
 
-**我懇求你們去調閱筆錄錄影，看完之後告訴我，我的理解有錯。**  
-**I implore you to review the recordings of the statement; then tell me that my understanding of what happened is wrong.**
+==我懇求你們去調閱筆錄錄影，看完之後告訴我，我的理解有錯。==  
+==I implore you to review the recordings of the statement; then tell me that my understanding of what happened is wrong.==
 
 當我兩天後去問案情進度，他否認他問過的問題，質疑被害人謊報竊案，說他怎麼知道我的手機是不是真的被偷?  
 Two days later, when I followed up on the case, he disavowed his own questions and cast doubt on the theft, wondering aloud how he could possibly know if the phone was truly stolen?
