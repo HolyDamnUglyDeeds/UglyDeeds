@@ -38,4 +38,10 @@ Two days later, when I followed up on the case, he disavowed his own questions a
 **I implore you to review the recordings of the statement; then tell me that my understanding of what happened is wrong.**
 
 
+https://uglydeeds.substack.com/
+https://substack.com/@holydamn
+https://x.com/Holydamn20
+https://x.com/UglyDeeds
+https://x.com/HolyD_UglyDeeds
 
+https://uglydeeds3.substack.com/
