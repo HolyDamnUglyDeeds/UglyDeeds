@@ -386,12 +386,13 @@ https://uglydeeds3.substack.com/
 <br>
 
 【 客觀事實 】：
-> 板橋陽明班大夜班店員一見我，就會用力咳嗽。
+> 板橋陽明班大夜班店員一見我，就會用力咳嗽。  
 > <strong style="color:#f44;"> 他在警告。</strong>  
 
 <br>   
 
 ==因為他被告知我是超商慣竊=={style=background:#f44;font-weight:1000}  
+
 <br>  
 
 數月前不曾如此， 
@@ -434,47 +435,108 @@ https://uglydeeds3.substack.com/
 
 ## 北榮
 
-<p class="pp"> 當我走進北榮急診，<br>
-我多次強調我是胸水，<br>
-我多次強調我不能躺。
-但是在我呼吸心跳停止八分鐘，被救回來後，主治醫師才知道我的水腫是胸水。
-我不相信一個急診醫師見到病患身上有幾十公斤的水腫，聽到病患主張他不能躺，看見心電圖的嚴重心律不整，
-可以合理的作出，<br>
+當我走進北榮急診，  
+我多次強調我是胸水，   
+我多次強調我不能躺。  
+
+但是在我呼吸心跳停止八分鐘，被救回來後，主治醫師才知道我的水腫是胸水。  
+
+我不相信一個急診醫師見到病患身上有幾十公斤的水腫，聽到病患主張不能躺，看見心電圖的嚴重心律不整，  
+
+可以合理的作出，  
+  
 要求病患儘量躺低一點的指示與強硬要求。
-<br>  
+
 
 ==事實證明，=={style=background:#f44;font-weight:1000}  
+
 ==我躺下不到五分鐘，=={style=background:#f44;font-weight:1000}  
+
 ==就停止呼吸心跳了。=={style=background:#f44;font-weight:1000}  
+
 ==但沒人為此負責。=={style=background:#f44;font-weight:1000}  
+
 ==在ICU的凌虐，=={style=background:#f44;font-weight:1000}  
+
 ==身上傷痕累累，=={style=background:#f44;font-weight:1000}  
+
 ==也沒人為此負責。=={style=background:#f44;font-weight:1000}  
+
 ==在浮洲橋的構陷，=={style=background:#f44;font-weight:1000}  
+
 ==也沒人為此負責。=={style=background:#f44;font-weight:1000}  
+
 ==新陳代謝科醫師不經照會在自行醫治心臟，=={style=background:#f44;font-weight:1000}  
+
 ==也不必負責。=={style=background:#f44;font-weight:1000}  
 
-<p class="pp"> 就因為我在疫情時與整個政府對立，<br>
-就因為我是平民，<br>
-就因為我在網路發表言論，<br>
-就因為我寫電子郵件要求國民黨善盡監督之責。
-就因為我不屈服，
-就因為我認為人民沒有必要對自己合法正常合情理的言論承擔任何額外的，被加諸，被要求的極抽象政治責任。
-白話文 ：我只是三級時在網路發表評價，就跟大家一樣，當時入局不是我求來的。
-所以，你們這些人，
-一個接一個，<br>
-一群接一群，
-全都覺得自己可以為所欲為。
-而且，也確實，
-從來沒人為任何一件事負過任何責任。
+就因為我在疫情時與整個政府對立，  
+就因為我是平民，  
+就因為我在網路發表言論，  
+就因為我寫電子郵件要求國民黨善盡監督之責。  
+就因為我不屈服，  
+就因為我認為人民沒有必要對自己合法正常合情理的言論承擔任何額外的，被加諸，被要求的極抽象政治責任。  
+
+白話文 ：我只是三級時在網路發表評價，就跟大家一樣，  
+當時入局不是我求來的。    
+
+
+所以，你們這些人，  
+一個接一個，  
+一群接一群，  
+全都覺得自己可以為所欲為。  
+
+而且，也確實，  
+
+從來沒人為任何一件事負過任何責任。  
+
 
 ==當員警在幹著違背職務與違法的事，=={style=background:#f44;font-weight:1000}  
+
 ==當醫生在幹著違背倫理與法律的事，=={style=background:#f44;font-weight:1000}  
+
 ==當這整件事曾參與的人，=={style=background:#f44;font-weight:1000}  
+
 ==人人濫權卻人人無責，=={style=background:#f44;font-weight:1000}  
+
 ==因為沒人有後果，=={style=background:#f44;font-weight:1000}  
+
 ==北榮絕對不會是最後一次。=={style=background:#f44;font-weight:1000}  
+
+<br>  
+
+## 亞東  
+
+亞東的情況與高雄、北榮完全不同。
+
+==亞東是全然的不得已=={style=background:#f44;font-weight:1000}  
+
+所以，
+
+我真正難聽的話要出籠了。  
+  
+
+<br>
+
+<font color="gold" style="text-shadow:0 0 0.15rem #f9f295, 0 0 0.3rem #e0aa3e, 0 0 0.5rem #faf398, 0 0 0.8rem #b88a44">
+
+讓我們回頭看看當時
+
+<br>  
+
+https://health.ltn.com.tw/article/breakingnews/3569707
+
+《健康網》亞東醫院收治全國11％重症！
+
+<br>  
+
+https://www.businesstoday.com.tw/article/category/183027/post/202106230023/
+《火線任務》13天擴充48張新專責病床 扛起全國11％重症大責　從院內感染到收治冠軍 亞東醫院戰「疫」錄  
+
+
+
+板橋的
+
 
 
 ## 板車
