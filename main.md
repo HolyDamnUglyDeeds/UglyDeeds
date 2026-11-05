@@ -518,52 +518,73 @@ https://uglydeeds3.substack.com/
 
 <br>
 
-<font color="gold" style="text-shadow:0 0 0.15rem #f9f295, 0 0 0.3rem #e0aa3e, 0 0 0.5rem #faf398, 0 0 0.8rem #b88a44">
+<div style="
+    color:white;
+    font-family: Microsoft JhengHei, 微軟正黑體, sans-serif;
+    font-weight:1000;
+    letter-spacing: 0.1rem;
+    background: linear-gradient(
+        135deg,
+         #edc967 30%,
+         #f7ef8a 50%,
+         #D1B15F 70%,
+         #b88a44 100%); 
+    padding-left: 1rem; 
+    padding-top: 1.5rem; 
+    padding-right: 1rem; 
+    padding-bottom: 1rem;
+">
 
-讓我們回頭看看當時
+<p style="position: absolute; left: 50%; transform: translate(-50%); font-size: 1.3rem;">讓我們回頭看看當時</p>
+
+<br><br>  
+
+httpR://health.ltn.com.tw/article/breakingnews/3569707
+<br>
+《健康網》亞東醫院收治全國11％重症！<br>
 
 <br>  
 
-https://health.ltn.com.tw/article/breakingnews/3569707
-
-《健康網》亞東醫院收治全國11％重症！
-
-<br>  
-
-https://www.businesstoday.com.tw/article/category/183027/post/202106230023/
+httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 《火線任務》13天擴充48張新專責病床 扛起全國11％重症大責　從院內感染到收治冠軍 亞東醫院戰「疫」錄  
+</div>
 
+<br>  
+
+一如既往，請自行將 httpR 改回 https 
 
 
 板橋的
 
 
+<br>
 
 ## 板車
 
-<p class="pp"> 大家知道，<br>
-這些人最讓人瞠目結舌，<br>
-最讓人難以致信的<strong>低能</strong>是什麼嗎?
-<p class="pp">【 客觀事實 】：.
+大家知道，這些人最讓人瞠目結舌，   
+最讓人難以致信的**低能**{style=color:fff}是什麼嗎?
 
-==他們很清楚所謂慣竊是他們栽贓的=={style=background:#f44;font-weight:1000}  
-==但他們搞到連自己都信了=={style=background:#f44;font-weight:1000}  
-==他們對著你設下一個又一個的偷竊便利局，=={style=background:#f44;font-weight:1000}  
-==同時還能擺出對慣竊衊視的姿態，=={style=background:#f44;font-weight:1000}  
-
----
+【 客觀事實 】：
+> ==他們很清楚所謂慣竊是他們栽贓的=={style=background:#f44;font-weight:1000}  
+> ==但他們血口噴人噴到連自己都信了=={style=background:#f44;font-weight:1000}  
+> ==他們持續對著你設下一個又一個的偷竊便利局，=={style=background:#f44;font-weight:1000}  
+> ==還會對你擺出對慣竊衊視的姿態，=={style=background:#f44;font-weight:1000}  
+>  
 
 ==一個人也就算了，=={style=background:#f44;font-weight:1000}  
 ==當一群人集體自欺欺人至此，=={style=background:#f44;font-weight:1000}  
 ==當這群人都有共性與關聯，=={style=background:#f44;font-weight:1000}  
 ==當這些人持續在活躍，=={style=background:#f44;font-weight:1000}  
 
-<p class="pp">當這些人持續在幹著出格的事，而且都很得意, 你只會收到一個強烈到無法抹去，無法無視的印象：  
+當這些人持續在幹著出格的事，而且都很得意, 你只會收到一個強烈到無法抹去，無法無視的印象：  
+
+<br>
 
 ==群體的扭曲。=={style=background:#f44;font-weight:1000}  
 ==扭曲的群體=={style=background:#f44;font-weight:1000}  
 ==以執法人員為骨幹=={style=background:#f44;font-weight:1000}  
 
+<br>
 
 ### 板捷
 
