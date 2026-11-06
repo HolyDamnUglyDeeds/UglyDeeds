@@ -1,8 +1,9 @@
 .g {
     background:#f00;
+    color:#000;
     font-weight:1000;
 }
 
-.s, .strong {
+.rd, .strong {
     color:#f00;
 }
