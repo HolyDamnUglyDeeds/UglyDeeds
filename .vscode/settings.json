@@ -1,0 +1,8 @@
+{
+    "telemetry.feedback.enabled": false,
+    "telemetry.editStats.enabled": false,
+    "editor.fontLigatures": false,
+    "markdown.styles": [
+        ".vscode/style.css"
+    ]
+}
