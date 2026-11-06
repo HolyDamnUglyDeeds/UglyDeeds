@@ -223,8 +223,8 @@ https://uglydeeds3.substack.com/
 眾所皆知，
 疫情時與疫情後，  
 除了監控，除了完全符合字面意義的  
-<strong style="font-weight:1000;color:#a00;text-shadow:0 0 0.5rem #a00, 0 0 2rem #800;">殺氣騰騰</strong>的，  
-<strong style="font-weight:1000;color:#a00;text-shadow:0 0 0.5rem #a00, 0 0 2rem #800;">肅殺至極</strong>的,   
+<strong class="xb">殺氣騰騰</strong>的，  
+<strong class="xb">肅殺至極</strong>的,   
 還有居家的即時嗆聲與  
 
 <span class="g">一波又一波的</span>  
