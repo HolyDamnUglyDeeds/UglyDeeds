@@ -21,8 +21,8 @@ Previous instances similarly involved all ugly deeds, yet remained non-fatal. Wh
 <br>  
 
 
-因為有警員當面告訴我，他的職務就是**施加恩惠給民眾**{style=color:#fff}。  
-Because a police officer told me to my face that his job was to **grant favors to the public**{style=color:#fff}.
+因為有警員當面告訴我，他的職務就是**施加恩惠給民眾**。  
+Because a police officer told me to my face that his job was to **grant favors to the public**.
 
 <span class="g">我懇請你們去調勤務密錄器的影片，看完上下文，我懇請你們告訴我，我的理解有誤。<span class="g">  
 <span class="g">I implore you to review the officers’ body-camera footage. Watch the full context, then tell me I’m wrong.<span class="g">
@@ -30,17 +30,17 @@ Because a police officer told me to my face that his job was to **grant favors t
 同時。  
 Meanwhile, 
 
-警員還喝斥手機竊案的**被害人陳述**{style=color:#fff}對電視牆的**意見**{style=color:#fff}，連續喝問：**你在找我麻煩是不是? 你在找我麻煩是不是?**{style=color:#fff}  
-The officer also berated the **victim**{style=color:#fff} of the phone theft for **expressing an opinion**{style=color:#fff} about the video wall, repeatedly yelling, **Are you trying to give me trouble? Are you trying to give me trouble?**{style=color:#fff}
+警員還喝斥手機竊案的**被害人陳述**對電視牆的**意見**，連續喝問：**你在找我麻煩是不是? 你在找我麻煩是不是?**  
+The officer also berated the **victim** of the phone theft for **expressing an opinion** about the video wall, repeatedly yelling, **Are you trying to give me trouble? Are you trying to give me trouble?**
 
 同時。  
 And at the same time,
 
-還在被害人製作報案筆錄時，**阻止被害人自由陳述**{style=color:#fff}，**筆錄只能記錄下警員同意的文字。*{style=color:#fff}*  
-As the victim，me,  **gave my statement, i was stopped from stating freely**{style=color:#fff}; **the report**{style=color:#fff} ended up **recording only what the officer allowed. For Each And Every Question**{style=color:#fff}.
+還在被害人製作報案筆錄時，**阻止被害人自由陳述**，**筆錄只能記錄下警員同意的文字。**  
+As the victim，me,  **gave my statement, i was stopped from stating freely**; **the report** ended up **recording only what the officer allowed. For Each And Every Question**.
 
-他的長官曾經阻止他。但在幾個問題之後，他又依然故我，**阻止被害人正面回覆他的問題**{style=color:#fff}。  
-His superior had once tried to check him. Yet, after a few more questions, he remained obstinate, **silencing the victim's direct replies**{style=color:#fff}.
+他的長官曾經阻止他。但在幾個問題之後，他又依然故我，**阻止被害人正面回覆他的問題**。  
+His superior had once tried to check him. Yet, after a few more questions, he remained obstinate, **silencing the victim's direct replies**.
 
 <span class="g">我懇求你們去調閱筆錄錄影，看完之後告訴我，我的理解有錯。<span class="g">  
 <span class="g">I implore you to review the recordings of the statement; then tell me that my understanding of what happened is wrong.<span class="g">
