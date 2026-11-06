@@ -1,6 +1,12 @@
 .g {
-    text-shadow:0 0 0.1rem #f00, 0 0 1rem #a00;
+    text-shadow:
+        0 0 0.2rem #800,
+        0 0 0.6rem #800,
+        0 0 0.8rem #f00,
+        0 0 1rem #f22;
+    color: #f00;
     font-weight:1000;
+    mix-blend-mode:screen
 }
 
 .rd, .strong {
