@@ -230,7 +230,7 @@ https://uglydeeds3.substack.com/
 <span class="g">一波又一波的</span>  
 <span class="g">黑色恐嚇</span>  
 
-請問， 
+請問，   
 當你是一個身家清白，背景乾淨單純的   
 普通民眾。  
 
