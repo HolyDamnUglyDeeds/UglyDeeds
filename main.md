@@ -24,8 +24,8 @@ Previous instances similarly involved all ugly deeds, yet remained non-fatal. Wh
 因為有警員當面告訴我，他的職務就是**施加恩惠給民眾**。  
 Because a police officer told me to my face that his job was to **grant favors to the public**.
 
-<span class="g">我懇請你們去調勤務密錄器的影片，看完上下文，我懇請你們告訴我，我的理解有誤。<span class="g">  
-<span class="g">I implore you to review the officers’ body-camera footage. Watch the full context, then tell me I’m wrong.<span class="g">
+<span class="g">我懇請你們去調勤務密錄器的影片，看完上下文，我懇請你們告訴我，我的理解有誤。</span>  
+<span class="g">I implore you to review the officers’ body-camera footage. Watch the full context, then tell me I’m wrong.</span>
 
 同時。  
 Meanwhile, 
@@ -42,8 +42,8 @@ As the victim，me,  **gave my statement, i was stopped from stating freely**; *
 他的長官曾經阻止他。但在幾個問題之後，他又依然故我，**阻止被害人正面回覆他的問題**。  
 His superior had once tried to check him. Yet, after a few more questions, he remained obstinate, **silencing the victim's direct replies**.
 
-<span class="g">我懇求你們去調閱筆錄錄影，看完之後告訴我，我的理解有錯。<span class="g">  
-<span class="g">I implore you to review the recordings of the statement; then tell me that my understanding of what happened is wrong.<span class="g">
+<span class="g">我懇求你們去調閱筆錄錄影，看完之後告訴我，我的理解有錯。</span>  
+<span class="g">I implore you to review the recordings of the statement; then tell me that my understanding of what happened is wrong.</span>
 
 當我兩天後去問案情進度，他否認他問過的問題，質疑被害人謊報竊案，說他怎麼知道我的手機是不是真的被偷?  
 Two days later, when I followed up on the case, he disavowed his own questions and cast doubt on the theft, wondering aloud how he could possibly know if the phone was truly stolen?
@@ -122,25 +122,28 @@ https://uglydeeds3.substack.com/
 
 <br>  
 
-<p class="pp">請問，  
+請問，  
 車禍當事人應該怎麼理解警方傳達這個資訊的用意?<br>
-應該怎麼理解這個資訊?</p>
+應該怎麼理解這個資訊?
 
 
 
 【 客觀事實 】：
-> 隔天，我前往派出所製作筆錄時，</p>
+> 隔天，我前往派出所製作筆錄時，  
 > <strong class="rd">承辦員警問我：然後，
 >
 > <span class="g">『我就飛出去了』</span>  
-> 對不對?  
+> 對不對?    
+>
 > 他的筆錄就是這麼寫：然後我就飛出去了。</strong>
 
 <br>
 
-請問，
+請問，  
+
 車禍當事人應該怎麼理解警方這個動作的用意?  
 應該怎麼理解這個動作?  
+
 又應該怎麼理解「開救護車」這個資訊  
 與「誘導筆錄」這個動作  
 所聯合傳遞的資訊?  
@@ -149,12 +152,16 @@ https://uglydeeds3.substack.com/
 
 ## 疫情
 
-眾所皆知的疫情事端有多骯髒下流， 
-我就不多說。  
+眾所皆知的疫情事端有多骯髒下流，   
+我就不多說。    
+
 我沒想到的，是「輿情」居然是這些國家這麼重視的東西。  
 重視到無所不用其極，  
+
 <strong>Everything is permitted.</strong>  
+
 至少這些人是這麼認為的。  
+
 再骯髒  
 再下流  
 再下賤  
@@ -172,20 +179,32 @@ https://uglydeeds3.substack.com/
 【 客觀事實 】：
 > 從疫情時開始
 > <span class="g">持續到現在。</span>  
+>
 > <span class="g">我在電子設備裡輸入的「每一個字」，</span>  
+>
 > <span class="g">我的私人筆記，</span>  
+>
 > <span class="g">我的私人寫作，</span>  
+>
 > <span class="g">我的私人通訊，</span>  
+>
 > <span class="g">而且是雙向散佈，</span>  
+>
 > <span class="g">我的私人數位內容，</span>  
+>
 > <span class="g">我的物理位置，</span>  
+>
 > <span class="g">我的舉止與言論</span>  
+>
 > <span class="g">全部都會被散佈</span>  
+> <br> 
 >
 > <span class="g">甚至是跨國散佈</span>  
->
+
+<br>
 
 <strong class="rd">所有經手人，  
+
 所有公職在身的經手人，  
 所有帶有司法性質的經手人  
 所有帶有國利性質的經手人  
@@ -194,6 +213,7 @@ https://uglydeeds3.substack.com/
 甚至是平民經手人  
 
 我不知道是否有誰，曾經有過異議  
+
 我只知道   </strong>  
 
 <span class="g">從疫情到現在</span>   
@@ -207,10 +227,15 @@ https://uglydeeds3.substack.com/
 
 【 客觀事實 】：
 > <strong class="rd">沒人比你們更清楚，無論有多艱難  
+>
 > <span class="g">我是什麼身份</span>  
+>
 > <span class="g">我作過什麼</span>  
+>
 > <span class="g">我沒作過什麼</span>  
+>
 > <span class="g">我堅守著什麼</span>  
+>
 > <span class="g">你們一個個、一群群又是什麼身份</span>  
 > 
 > <span class="g">你們一個個，一群群，</span>  

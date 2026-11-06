@@ -1,29 +1,32 @@
 .g {
     text-shadow:
-        0 0 0.2rem #800,
-        0 0 0.6rem #800,
-        0 0 0.8rem #f00,
-        0 0 1rem #f22;
-    color: #f00;
-    font-weight:1000;
-    mix-blend-mode:screen
-}
-
-.rd, .strong {
-    color:#f00;
-}
-
-strong, b {
-    color: #fff;
-    font-weight:700;
-}
-
-.xb {
-    font-weight:1000;
-    text-shadow:
         0 0 0.2rem rgb(255, 68, 0),
         0 0 0.6rem rgb(0, 0, 0),
         0 0 0.8rem rgb(255, 0, 0),
         0 0 1rem rgb(255, 0, 0);
     color: rgb(255, 100, 44);
+    font-weight:1000;
+    mix-blend-mode: screen;
+}
+
+.rd, .strong {
+    color:#f00;
+    mix-blend-mode: screen;
+}
+
+strong, b {
+    color: #fff;
+    font-weight:700;
+    mix-blend-mode: screen;
+}
+
+.xb {
+    font-weight:1000;
+    text-shadow:
+        0 0 0.2rem #800,
+        0 0 0.6rem #800,
+        0 0 0.8rem #f00,
+        0 0 1rem #f22;
+    color: #f00;
+    mix-blend-mode: screen;
 }
