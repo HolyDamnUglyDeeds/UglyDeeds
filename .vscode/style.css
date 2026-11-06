@@ -12,3 +12,8 @@
 .rd, .strong {
     color:#f00;
 }
+
+.strong {
+    color: #fff;
+    font-weight:700;
+}
