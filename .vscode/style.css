@@ -13,7 +13,7 @@
     color:#f00;
 }
 
-.strong {
+strong, b {
     color: #fff;
     font-weight:700;
 }

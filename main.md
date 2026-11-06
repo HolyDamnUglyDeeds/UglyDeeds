@@ -309,7 +309,7 @@ https://uglydeeds3.substack.com/
 
 <strong class="rd">大女兒說得很明白</strong>
 
-<strong style="font-weight:1000;color:#a00;text-shadow:0 0 0.5rem #a00, 0 0 2rem #800;">是警察要她這麼作的</strong>  
+<strong class="xb">是警察要她這麼作的</strong>  
 
 這些年，我被迫學會的，最重要的事，是：  
 <strong class="rd">只要在板橋，就是會一直有嫁禍、栽贓、構陷</strong>  
@@ -353,7 +353,7 @@ https://uglydeeds3.substack.com/
 > 
 > <span class="g">照著念</span>  
 > 
-> <strong style="font-weight:1000;color:#a00;text-shadow:0 0 0.5rem #a00, 0 0 2rem #800;">「超商慣竊出沒，請嚴加提防：</strong>  
+> <strong class="xb">「超商慣竊出沒，請嚴加提防：</strong>  
 > 
 >
 > 詳細用詞我忘了，大意如此。  
@@ -567,7 +567,7 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 ## 板車
 
 大家知道，這些人最讓人瞠目結舌，   
-最讓人難以致信的**低能**{style=color:fff}是什麼嗎?
+最讓人難以致信的<strong class="xb">低能</strong>是什麼嗎?
 
 【 客觀事實 】：
 > <span class="g">他們很清楚所謂慣竊是他們栽贓的</span>  
