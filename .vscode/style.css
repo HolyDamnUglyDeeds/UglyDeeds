@@ -1,6 +1,5 @@
 .g {
-    background:#f00;
-    color:#000;
+    text-shadow:0 0 0.1rem #f00, 0 0 1rem #a00;
     font-weight:1000;
 }
 
