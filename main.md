@@ -86,7 +86,7 @@ I stated my objective: to verify whether I had been implicated in the aforementi
 值班員警說的很含糊，聽起來像是不會，  
 The officer on duty provided an ambiguous response, suggesting that I had not been. 
 
-我想確認，他當場立即改用喝斥的口氣。  
+我想確認，他當場立即改用喝斥(訓誡)的口氣。  
 When I sought further confirmation, the officer immediately transitioned to a reprimanding tone.  
 
 <br><br>  
@@ -116,44 +116,66 @@ https://uglydeeds3.substack.com/
 ## 過去：車禍
 <p class="eh2">The Past: The Scooter Accident</p>
 <br>
-eh2
+
 
 【 客觀事實 】：  
-The cold fact.
-> <strong class="rd">酒駕，酒測，登記之類的例行程序之後，警察跟我說的第一件事是：</strong>  
-> <span class="g">『對方替代役是開救護車的』</span>  
+The cold fact:
+> <strong class="rd">酒駕，酒測，登記之類的例行程序之後，警察跟我說的第一件事是：
+> After the breathalyzer, the paperwork, and the routine, the officer's first words were:  </strong>    
+>
+> <span class="g">『對方替代役是開救護車的』<br>
+> "The other driver was a former alternative service ambulance driver."</span>  
 
 <br>  
 
 請問，  
-車禍當事人應該怎麼理解警方傳達這個資訊的用意?<br>
-應該怎麼理解這個資訊?
+車禍當事人應該怎麼理解警方傳達這個資訊的用意?  
+Why mention that? What was the point?  
 
+應該怎麼理解這個資訊?  
+How am I supposed to make sense of that?
 
-
+<br>
+ 
 【 客觀事實 】：
+The cold fact:
 > 隔天，我前往派出所製作筆錄時，  
-> <strong class="rd">承辦員警問我：然後，
+> The next day, during the statement at the precinct,   
 >
-> <span class="g">『我就飛出去了』</span>  
+> <strong class="rd">承辦員警問我：然後，<br>
+>  the officer asked: 'Then...  <br>  
+>
+> <span class="g">『我就飛出去了』<br>
+> "I flew out,"</span>  
 > 對不對?    
+> right?  
 >
-> 他的筆錄就是這麼寫：然後我就飛出去了。</strong>
+> 他的筆錄就是這麼寫：然後我就飛出去了。  
+> That is exactly how it was recorded: 'Then I flew out.</strong>
 
 <br>
 
 請問，  
+May I ask,  
 
 車禍當事人應該怎麼理解警方這個動作的用意?  
+How am I supposed to understand why the officer did this?  
+
 應該怎麼理解這個動作?  
+How am I supposed to understand what was this?
 
 又應該怎麼理解「開救護車」這個資訊  
+And How am I supposed to understand the combined signal of "amulance drive"  
+
 與「誘導筆錄」這個動作  
-所聯合傳遞的資訊?  
+所聯合傳遞的資訊?   
+and the "leading statement"?
 
 <br>
 
-## 疫情
+## 過去：疫情
+<p class"eh2">The Past: The COVID-19 Pandemic</p>
+<br>
 
 眾所皆知的疫情事端有多骯髒下流，   
 我就不多說。    

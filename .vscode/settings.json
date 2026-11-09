@@ -4,5 +4,8 @@
     "editor.fontLigatures": false,
     "markdown.styles": [
         ".vscode/style.css"
-    ]
+    ],
+    "[snippets]": {
+        "editor.tabCompletion": "on"
+    }
 }
