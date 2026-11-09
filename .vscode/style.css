@@ -83,8 +83,22 @@ hr {
 
 h2 {
     border-bottom: 1px solid red !important;
+    color: #fff;
 }
 
 h3 {
     border-bottom: 1px solid #800 !important;
+    color: #fff;
+}
+
+.eh2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.eh3 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
 }

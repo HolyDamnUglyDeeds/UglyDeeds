@@ -16,8 +16,7 @@ Previous instances similarly involved all ugly deeds, yet remained non-fatal. Wh
 <br>
 
 ## 恩惠
-<font size="4"><b>favor</b></font>  
-
+<p class="eh2">favor</p>
 <br>  
 
 
@@ -111,16 +110,15 @@ https://uglydeeds3.substack.com/
 
 
 
-## 尚未調整
-
 <br>  
 
-<font size="4">**New Imported, still working**</font>
 
-
-## 車禍
+## 過去：車禍
+<p class="eh2">The Past: The Scooter Accident</p>
+<br>
 
 【 客觀事實 】：  
+The cold fact.
 > <strong class="rd">酒駕，酒測，登記之類的例行程序之後，警察跟我說的第一件事是：</strong>  
 > <span class="g">『對方替代役是開救護車的』</span>  
 
