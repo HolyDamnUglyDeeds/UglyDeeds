@@ -686,7 +686,7 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 非常巧，我看見了我應該看見的事。  
 <br>
 
-<strong class="rd">【 客觀事實 】：</strong>  
+<strong class="rd">【 客觀事實 】：
 > 當我在救護車上被叫醒，警察問我有無證件，  
 > 我說，在黑色大袋子裡。   
 > 警察重複了幾次：黑色大袋子?  
@@ -695,7 +695,7 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 > 
 > 然後，某次被叫醒時，我看見， 
 > 
-
+</strong>  
 <br> 
 
 <span class="g">救護車的人員(消防隊)，</span>  
@@ -870,7 +870,7 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 <strong class="rd">談到中期，兩個警察並排，肩並肩，同時面向我，  
 我和他們談了好一陣，我再三表示沒有追究的意願之後，結束談話之後，  
 
-<span class="g">一轉身，發現對方站在我身後一步。</span>    
+<span class="g">一轉身，發現對方站在我身後一步之處。</span>    
 
 <br>  
 原來，從第二位警察走過來並肩站開始，  
