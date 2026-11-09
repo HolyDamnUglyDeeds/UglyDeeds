@@ -2,7 +2,7 @@
   "My Universal Log": {
     "prefix": "eh2",
     "body": [
-      "<p class="eh2">${1}</p>",
+      "<p class\"eh2\">${1}</p>",
       "<br>",
     ],
     "description": "英文 h2",
