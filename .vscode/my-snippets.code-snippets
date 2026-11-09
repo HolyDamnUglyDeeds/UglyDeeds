@@ -1,5 +1,5 @@
 {
-  "My Universal Log": {
+  "eh2": {
     "prefix": "eh2",
     "body": [
       "<p class\"eh2\">${1}</p>",
@@ -7,5 +7,25 @@
     ],
     "description": "英文 h2",
     "scope": "markdown,plaintext"
-  }
+  },
+
+  "eh3": {
+    "prefix": "eh2",
+    "body": [
+      "<p class=\"eh3\">${1}</p>",
+      "<br>",
+    ],
+    "description": "英文 h3",
+    "scope": "markdown,plaintext"
+  },
+
+  "客觀事實": {
+    "prefix": "tcf",
+    "body": [
+      "The cold fact:  ",
+      "<br>",
+    ],
+    "description": "英文 h3",
+    "scope": "markdown,plaintext"
+  },
 }

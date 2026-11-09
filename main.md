@@ -72,7 +72,7 @@ You will encounter the most arrogant civil servants in Taiwan.
 Approximately ten years ago,   
 
 我停在路邊的機車被車禍波及， 
-my motorcycle, which was parked on the roadside, was impacted by a traffic accident. 
+my scooter was caught in a crash while parked in a designated spot.
 
 警員留下字條，說明車損原因，以及員警的聯絡方式。  
 A police officer left a note specifying the cause of the damage and providing their contact details.  
@@ -178,30 +178,42 @@ and the "leading statement"?
 <br>
 
 眾所皆知的疫情事端有多骯髒下流，   
+The sordid nature of what happened during the COVID-19 pandemic is common knowledge for many now.  
 我就不多說。    
+ I will not elaborate.  
 
 我沒想到的，是「輿情」居然是這些國家這麼重視的東西。  
 重視到無所不用其極，  
+I underestimated the depth of these nations' obsession with public opinion, and the lengths they are willing to go.  
 
 <strong>Everything is permitted.</strong>  
 
 至少這些人是這麼認為的。  
-
+At least, that is what they believe.  
 再骯髒  
+No matter how sordid,  
 再下流  
+depraved,   
 再下賤  
+or vile.  
 都一樣，  
+It is all the same.  
 只要他們想  
+As long as they desire it,   
 
-<span class="g">想下海?</span>  
+<span class="g">想下海?<br>
+"Want her in the trade?"</span>  
 
 <strong>Everything is permitted.</strong>
 
 <br>  
 
 ### 監控
+<p class="eh3">Digital Panopticon / Targeted total surveillance</p>
+<br>
 
 【 客觀事實 】：
+The cold fact.
 > 從疫情時開始
 > <span class="g">持續到現在。</span>  
 >
