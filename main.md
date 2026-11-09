@@ -42,8 +42,12 @@ As the victim，me,  **gave my statement, i was stopped from stating freely**; *
 他的長官曾經阻止他。但在幾個問題之後，他又依然故我，**阻止被害人正面回覆他的問題**。  
 His superior had once tried to check him. Yet, after a few more questions, he remained obstinate, **silencing the victim's direct replies**.
 
-<span class="g">我懇求你們去調閱筆錄錄影，看完之後告訴我，我的理解有錯。</span>  
-<span class="g">I implore you to review the recordings of the statement; then tell me that my understanding of what happened is wrong.</span>
+<span style="text-shadow:
+        0 0 1rem #400, 0 0 2rem #400, 0 0 3rem #ff4747, 0 0 5rem #ff4747, 0 0 6rem #ff4747;
+    font-weight:1000;
+    color:red;
+    mix-blend-mode: screen;">我懇求你們去調閱筆錄錄影，看完之後告訴我，我的理解有錯。<br>  
+I implore you to review the recordings of the statement; then tell me that my understanding of what happened is wrong.</span>
 
 當我兩天後去問案情進度，他否認他問過的問題，質疑被害人謊報竊案，說他怎麼知道我的手機是不是真的被偷?  
 Two days later, when I followed up on the case, he disavowed his own questions and cast doubt on the theft, wondering aloud how he could possibly know if the phone was truly stolen?
