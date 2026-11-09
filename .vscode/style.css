@@ -78,9 +78,13 @@ blockquote {
 }
 
 hr {
-    border-color: #f00 !important;
     border-top: 1px solid #f00 !important;
-    background-color: #f00 !important;
-    color: #f00 !important;
-    border-style: solid !important;
+}
+
+h2 {
+    border-bottom: 1px solid red !important;
+}
+
+h3 {
+    border-bottom: 1px solid #800 !important;
 }

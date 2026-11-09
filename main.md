@@ -227,7 +227,7 @@ https://uglydeeds3.substack.com/
 <span class="g">從來不曾被阻止</span>    
 
 <span class="g">從來不曾被改變</span>    
-  
+
 
 【 客觀事實 】：
 > <strong class="rd">沒人比你們更清楚，無論有多艱難  
