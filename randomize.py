@@ -41,11 +41,11 @@ def make_g():
         color_3_r, color_3_g = random_light()
         color_3 = f'rgb({color_3_r}, {color_3_g}, 0)'
         
-        _css = f'''.g{_} {
+        _css = f'''.g{_} {{
     color: #f00;
     font-weight:1000;
     text-shadow:
-        '''
+    '''
         for __ in range(7):
             _css += '''0 0 1rem #000,
         '''
@@ -59,7 +59,7 @@ def make_g():
         '''
         
         _css += f'''{offset_3} {color_3};
-}'''
+}}'''
 
         css.append(_css)
     
@@ -76,7 +76,7 @@ def make_bx():
         
         color_2 = f'rgb({round(random_bias(0.2) * 208)}, {round(random_bias(0.2) * 112)}, 0)'
         
-        _css = f'''.xb{_} {
+        _css = f'''.xb{_} {{
     color: #000;
     font-weight:800;
     text-shadow:
@@ -90,7 +90,7 @@ def make_bx():
         '''
         
         _css += f'''{offset_2} {color_2};
-}'''
+}}'''
 
         css.append(_css)
     
