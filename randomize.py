@@ -13,20 +13,18 @@ def random():
 
 
 def random_bias(base, bias):
-    return round(
-        randint(
+    return randint(
             round(base * (1 - bias)),
             round(base * (1 + bias))
-        ) / 100
     )
 
 
 def random_dim():
-    return random_bias(128, 0.2), random_bias(50, 0.2)
+    return random_bias(128, 0.1), random_bias(50, 0.1)
 
 
 def random_light():
-    return random_bias(208, 0.2), random_bias(60, 0.2)
+    return random_bias(232, 0.1), random_bias(60, 0.1)
            
 
 
@@ -79,7 +77,7 @@ def make_bx():
         offset_y = random()
         offset_2 = f'{offset_x}rem {offset_y}rem 5rem'
         
-        color_2 = f'rgb({random_bias(208, 0.2)}, {random_bias(112, 0.2)}, 0)'
+        color_2 = f'rgb({random_bias(232, 0.1)}, {random_bias(122, 0.1)}, 0)'
         
         _css = f'''.xb{_} {{
     color: #000;

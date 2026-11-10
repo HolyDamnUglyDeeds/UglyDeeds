@@ -24,8 +24,8 @@ Previous instances similarly involved all ugly deeds, yet remained non-fatal. Wh
 因為有警員當面告訴我，他的職務就是**施加恩惠給民眾**。  
 Because a police officer told me to my face that his job was to **grant favors to the public**.
 
-<span class="g">我懇請你們去調勤務密錄器的影片，看完上下文，我懇請你們告訴我，我的理解有誤。</span>  
-<span class="g">I implore you to review the officers’ body-camera footage. Watch the full context, then tell me I’m wrong.</span>
+<span class=g4>我懇請你們去調勤務密錄器的影片，看完上下文，我懇請你們告訴我，我的理解有誤。</span>  
+<span class=g9>I implore you to review the officers’ body-camera footage. Watch the full context, then tell me I’m wrong.</span>
 
 同時。  
 Meanwhile, 
@@ -125,7 +125,7 @@ The cold fact:
 > <strong class="rd">酒駕，酒測，登記之類的例行程序之後，警察跟我說的第一件事是：
 > After the breathalyzer, the paperwork, and the routine, the officer's first words were:  </strong>    
 >
-> <span class="g">『對方替代役是開救護車的』<br>
+> <span class=g2>『對方替代役是開救護車的』<br>
 > "The other driver was a former alternative service ambulance driver."</span>  
 
 <br>  
@@ -147,7 +147,7 @@ The cold fact:
 > <strong class="rd">承辦員警問我：然後，<br>
 >  the officer asked: 'Then...  <br>  
 >
-> <span class="g">『我就飛出去了』<br>
+> <span class=g13>『我就飛出去了』<br>
 > "I flew out,"</span>  
 > 對不對?    
 > right?  
@@ -204,7 +204,7 @@ It is all the same.
 只要他們想  
 As long as they desire it,   
 
-<span class="g">想下海?<br>
+<span class=g0>想下海?<br>
 "Want her in the trade?"</span>  
 
 <strong>Everything is permitted.</strong>
@@ -218,28 +218,28 @@ As long as they desire it,
 【 客觀事實 】：
 The cold fact.
 > 從疫情時開始
-> <span class="g">持續到現在。</span>  
+> <span class=g8>持續到現在。</span>  
 >
-> <span class="g">我在電子設備裡輸入的「每一個字」，</span>  
+> <span class=g5>我在電子設備裡輸入的「每一個字」，</span>  
 >
-> <span class="g">我的私人筆記，</span>  
+> <span class=g8>我的私人筆記，</span>  
 >
-> <span class="g">我的私人寫作，</span>  
+> <span class=g12>我的私人寫作，</span>  
 >
-> <span class="g">我的私人通訊，</span>  
+> <span class=g4>我的私人通訊，</span>  
 >
-> <span class="g">而且是雙向散佈，</span>  
+> <span class=g18>而且是雙向散佈，</span>  
 >
-> <span class="g">我的私人數位內容，</span>  
+> <span class=g2>我的私人數位內容，</span>  
 >
-> <span class="g">我的物理位置，</span>  
+> <span class=g10>我的物理位置，</span>  
 >
-> <span class="g">我的舉止與言論</span>  
+> <span class=g3>我的舉止與言論</span>  
 >
-> <span class="g">全部都會被散佈</span>  
+> <span class=g7>全部都會被散佈</span>  
 > <br> 
 >
-> <span class="g">甚至是跨國散佈</span>  
+> <span class=g4>甚至是跨國散佈</span>  
 
 <br>
 
@@ -256,30 +256,30 @@ The cold fact.
 
 我只知道   </strong>  
 
-<span class="g">從疫情到現在</span>   
+<span class=g14>從疫情到現在</span>   
 
-<span class="g">監控與散佈這件事</span>   
+<span class=g8>監控與散佈這件事</span>   
 
-<span class="g">從來不曾被阻止</span>    
+<span class=g6>從來不曾被阻止</span>    
 
-<span class="g">從來不曾被改變</span>    
+<span class=g17>從來不曾被改變</span>    
 
 
 【 客觀事實 】：
 > <strong class="rd">沒人比你們更清楚，無論有多艱難  
 >
-> <span class="g">我是什麼身份</span>  
+> <span class=g24>我是什麼身份</span>  
 >
-> <span class="g">我作過什麼</span>  
+> <span class=g19>我作過什麼</span>  
 >
-> <span class="g">我沒作過什麼</span>  
+> <span class=g0>我沒作過什麼</span>  
 >
-> <span class="g">我堅守著什麼</span>  
+> <span class=g12>我堅守著什麼</span>  
 >
-> <span class="g">你們一個個、一群群又是什麼身份</span>  
+> <span class=g1>你們一個個、一群群又是什麼身份</span>  
 > 
-> <span class="g">你們一個個，一群群，</span>  
-> <span class="g">又都堅持著，到處幹著些什麼</span>  
+> <span class=g8>你們一個個，一群群，</span>  
+> <span class=g18>又都堅持著，到處幹著些什麼</span>  
 
 </strong><br>  
 
@@ -292,22 +292,22 @@ The cold fact.
 <strong class="xb">肅殺至極</strong>的,   
 還有居家的即時嗆聲與  
 
-<span class="g">一波又一波的</span>  
-<span class="g">黑色恐嚇</span>  
+<span class=g2>一波又一波的</span>  
+<span class=g2>黑色恐嚇</span>  
 
 請問，   
 當你是一個身家清白，背景乾淨單純的   
 普通民眾。  
 
-<span class="g">正因為，就因為</span>  
-<span class="g">你是身家清白，背景乾淨單純的</span>  
-<span class="g">普通民眾</span>  
+<span class=g8>正因為，就因為</span>  
+<span class=g18>你是身家清白，背景乾淨單純的</span>  
+<span class=g10>普通民眾</span>  
 
 面對黑白兩邊，與來自於情治單位的肅殺與恐嚇，  
 以及  
 
-<span class="g">絲毫不掩飾</span>  
-<span class="g">明擺著的黑白勾結</span>  
+<span class=g10>絲毫不掩飾</span>  
+<span class=g0>明擺著的黑白勾結</span>  
 你該怎麼辦?
 
 <br>  
@@ -319,12 +319,12 @@ The cold fact.
 當時還有，   
 <strong class="rd">在網路上到處緊跟著你的  </strong>
 
-<span class="g">活摘器官的廣告</span>  
-<span class="g">對 !</span>  
-<span class="g">是廣告。</span>  
-<span class="g">是他們的投放</span>  
-<span class="g">是他們在張羅</span>  
-<span class="g">是他們在組織</span>  
+<span class=g21>活摘器官的廣告</span>  
+<span class=g17>對 !</span>  
+<span class=g24>是廣告。</span>  
+<span class=g1>是他們的投放</span>  
+<span class=g2>是他們在張羅</span>  
+<span class=g12>是他們在組織</span>  
 
 請問，  
 你能怎麼辦 ?   
@@ -350,27 +350,27 @@ The cold fact.
 當你終於吃了，但身體太虛弱，且依然沒怎麼睡  
 當你在這種情況下，因餓太久    
 
-<span class="g">在你臨吐之前，</span>   
-<span class="g">有人跟你說了什麼，</span>  
-<span class="g">你吐完，</span>  
-<span class="g">你清理完穢物後，</span>  
-<span class="g">你忘了這事。</span>  
-<span class="g">這很罕見?</span>  
-<span class="g">這在醫學上不常見?</span>  
-<span class="g">這在現實中不常見?</span>  
-<span class="g">然後，</span>  
-<span class="g">你們一個又一個，</span>  
-<span class="g">在趁人之危之後，</span>  
-<span class="g">還繼續作了什麼?</span>  
-<span class="g">到處作了什麼?</span>  
-<span class="g">到處跟著我去散佈謠言，</span>  
-<span class="g">很有本事??</span>  
+<span class=g21>在你臨吐之前，</span>   
+<span class=g14>有人跟你說了什麼，</span>  
+<span class=g12>你吐完，</span>  
+<span class=g3>你清理完穢物後，</span>  
+<span class=g12>你忘了這事。</span>  
+<span class=g25>這很罕見?</span>  
+<span class=g14>這在醫學上不常見?</span>  
+<span class=g1>這在現實中不常見?</span>  
+<span class=g21>然後，</span>  
+<span class=g11>你們一個又一個，</span>  
+<span class=g22>在趁人之危之後，</span>  
+<span class=g24>還繼續作了什麼?</span>  
+<span class=g6>到處作了什麼?</span>  
+<span class=g25>到處跟著我去散佈謠言，</span>  
+<span class=g17>很有本事??</span>  
 
 不要忘了，  
 因為那大女兒的狀況，我決定寬容， 
 
-<span class="g">我寬容的是那大女兒</span>  
-<span class="g">不是你們這些指使大女兒的髒東西</span>  
+<span class=g6>我寬容的是那大女兒</span>  
+<span class=g23>不是你們這些指使大女兒的髒東西</span>  
 
 <strong class="rd">大女兒說得很明白</strong>
 
@@ -398,8 +398,8 @@ The cold fact.
 > 我等到一點十分，離開超商，在旁邊抽菸，才看見警察與這些髒東西一起過來。  
 > 當然，他們無視我。  
 > 
-> <span class="g">沒發生過的事</span>  
-> <span class="g">他們就是不可能有證據</span>  
+> <span class=g3>沒發生過的事</span>  
+> <span class=g25>他們就是不可能有證據</span>  
 
 <br>  
 
@@ -408,15 +408,15 @@ The cold fact.
 就能看見那裡的店員態度丕變。  
 在台中，    
 
-<span class="g">從超商店員口中得知，</span>  
-<span class="g">他們甚至還提早，</span>  
-<span class="g">趕在我抵達超商之前</span>  
-<span class="g">先去造謠。</span>  
+<span class=g0>從超商店員口中得知，</span>  
+<span class=g5>他們甚至還提早，</span>  
+<span class=g7>趕在我抵達超商之前</span>  
+<span class=g22>先去造謠。</span>  
 
 【 客觀事實 】：  
 > <strong class="rd">直到我出院後，回到板橋，看見超商店員拿起掛在脖子上的3c產品，在我看得見的地方，</strong>  
 > 
-> <span class="g">照著念</span>  
+> <span class=g2>照著念</span>  
 > 
 > <strong class="xb">「超商慣竊出沒，請嚴加提防：</strong>  
 > 
@@ -428,15 +428,15 @@ The cold fact.
 
 <strong class="rd">
 
-<span class="g">這些人全台全場緊迫盯人</span>  
-<span class="g">他們很清楚我從沒偷過東西</span>  
-<span class="g">但這些人就是這樣公然造謠。</span>  
+<span class=g5>這些人全台全場緊迫盯人</span>  
+<span class=g8>他們很清楚我從沒偷過東西</span>  
+<span class=g5>但這些人就是這樣公然造謠。</span>  
 
 在石門的超商，還有店員跑到我旁邊，用我聽得到的音量自言自語道：  
-<span class="g">你怎麼還沒被警察抓走？</span>  
+<span class=g0>你怎麼還沒被警察抓走？</span>  
 原因一樣很單純</strong>
 
-<span class="g">老梅那間超商的店員跑來串門子時造的謠。</span>    
+<span class=g16>老梅那間超商的店員跑來串門子時造的謠。</span>    
   
 這種賤事至今不曾改善。  
 所謂無風不起浪，  
@@ -450,7 +450,7 @@ The cold fact.
 
 <br>   
 
-<span class="g">因為他被告知我是超商慣竊</span>  
+<span class=g8>因為他被告知我是超商慣竊</span>  
 
 <br>  
 
@@ -513,27 +513,27 @@ The cold fact.
 要求病患儘量躺低一點的指示與強硬要求。
 
 
-<span class="g">事實證明，</span>  
+<span class=g14>事實證明，</span>  
 
-<span class="g">我躺下不到五分鐘，</span>  
+<span class=g21>我躺下不到五分鐘，</span>  
 
-<span class="g">就停止呼吸心跳了。</span>  
+<span class=g18>就停止呼吸心跳了。</span>  
 
-<span class="g">但沒人為此負責。</span>  
+<span class=g0>但沒人為此負責。</span>  
 
-<span class="g">在ICU的凌虐，</span>  
+<span class=g19>在ICU的凌虐，</span>  
 
-<span class="g">身上傷痕累累，</span>  
+<span class=g2>身上傷痕累累，</span>  
 
-<span class="g">也沒人為此負責。</span>  
+<span class=g12>也沒人為此負責。</span>  
 
-<span class="g">在浮洲橋的構陷，</span>  
+<span class=g7>在浮洲橋的構陷，</span>  
 
-<span class="g">也沒人為此負責。</span>  
+<span class=g18>也沒人為此負責。</span>  
 
-<span class="g">新陳代謝科醫師不經照會在自行醫治心臟，</span>  
+<span class=g14>新陳代謝科醫師不經照會在自行醫治心臟，</span>  
 
-<span class="g">也不必負責。</span>  
+<span class=g22>也不必負責。</span>  
 
 就因為我在疫情時與整個政府對立，   
 
@@ -561,17 +561,17 @@ The cold fact.
 從來沒人為任何一件事負過任何責任。  
 
 
-<span class="g">當員警在幹著違背職務與違法的事，</span>  
+<span class=g19>當員警在幹著違背職務與違法的事，</span>  
 
-<span class="g">當醫生在幹著違背倫理與法律的事，</span>  
+<span class=g6>當醫生在幹著違背倫理與法律的事，</span>  
 
-<span class="g">當這整件事曾參與的人，</span>  
+<span class=g11>當這整件事曾參與的人，</span>  
 
-<span class="g">人人濫權卻人人無責，</span>  
+<span class=g22>人人濫權卻人人無責，</span>  
 
-<span class="g">因為沒人有後果，</span>  
+<span class=g18>因為沒人有後果，</span>  
 
-<span class="g">北榮絕對不會是最後一次。</span>  
+<span class=g10>北榮絕對不會是最後一次。</span>  
 
 <br>  
 
@@ -579,7 +579,7 @@ The cold fact.
 
 亞東的情況與高雄、北榮完全不同。
 
-<span class="g">亞東是全然的不得已</span>  
+<span class=g24>亞東是全然的不得已</span>  
 
 所以，
 
@@ -635,24 +635,24 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 最讓人難以致信的<strong class="xb">低能</strong>是什麼嗎?
 
 【 客觀事實 】：
-> <span class="g">他們很清楚所謂慣竊是他們栽贓的</span>  
-> <span class="g">但他們血口噴人噴到連自己都信了</span>  
-> <span class="g">他們持續對著你設下一個又一個的偷竊便利局，</span>  
-> <span class="g">還會對你擺出對慣竊衊視的姿態，</span>  
+> <span class=g14>他們很清楚所謂慣竊是他們栽贓的</span>  
+> <span class=g6>但他們血口噴人噴到連自己都信了</span>  
+> <span class=g16>他們持續對著你設下一個又一個的偷竊便利局，</span>  
+> <span class=g22>還會對你擺出對慣竊衊視的姿態，</span>  
 >  
 
-<span class="g">一個人也就算了，</span>  
-<span class="g">當一群人集體自欺欺人至此，</span>  
-<span class="g">當這群人都有共性與關聯，</span>  
-<span class="g">當這些人持續在活躍，</span>  
+<span class=g1>一個人也就算了，</span>  
+<span class=g13>當一群人集體自欺欺人至此，</span>  
+<span class=g0>當這群人都有共性與關聯，</span>  
+<span class=g8>當這些人持續在活躍，</span>  
 
 當這些人持續在幹著出格的事，而且都很得意, 你只會收到一個強烈到無法抹去，無法無視的印象：  
 
 <br>
 
-<span class="g">群體的扭曲。</span>  
-<span class="g">扭曲的群體</span>  
-<span class="g">以執法人員為骨幹</span>  
+<span class=g15>群體的扭曲。</span>  
+<span class=g22>扭曲的群體</span>  
+<span class=g5>以執法人員為骨幹</span>  
 
 <br>
 
@@ -670,18 +670,18 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 第二次報警，  
 <strong class="rd">我覺得有兩件事非常不對勁。</strong>  
 
-<span class="g">一、動手打人的，</span>  
+<span class=g5>一、動手打人的，</span>  
 
-<span class="g">居然可以站在警察後方兩步之處，</span>  
+<span class=g8>居然可以站在警察後方兩步之處，</span>  
 
-<span class="g">全程監聽警察和被害人的對談。</span> 
+<span class=g3>全程監聽警察和被害人的對談。</span> 
  
 
-<span class="g">二、警察明白告訴我，</span>  
+<span class=g7>二、警察明白告訴我，</span>  
 
-<span class="g">這種傷我提告也沒用，</span>   
+<span class=g12>這種傷我提告也沒用，</span>   
 
-<span class="g">就只會罰參伍佰塊。</span>  
+<span class=g5>就只會罰參伍佰塊。</span>  
 
 【 客觀事實 】：
 > 以上兩點，我不評價。  
@@ -694,7 +694,7 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 為何我讓他一直動手?  
 為何我不還手?   
 
-<span class="g">因為他七十幾歲了。</span>  
+<span class=g0>因為他七十幾歲了。</span>  
 
 這點我依然不評價。  
 看完全篇，大家自有公論。  
@@ -734,10 +734,10 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 </strong>  
 <br> 
 
-<span class="g">救護車的人員(消防隊)，</span>  
-<span class="g">把我的行李拿下車。</span>  
-<span class="g">所以我的手機，行動電源，證件，</span>  
-<span class="g">都被人拿走。</span>  
+<span class=g19>救護車的人員(消防隊)，</span>  
+<span class=g5>把我的行李拿下車。</span>  
+<span class=g25>所以我的手機，行動電源，證件，</span>  
+<span class=g6>都被人拿走。</span>  
 
 我的行李是藍色，裡面東西比較雜。  
 黑色大背包如果不是在藍色行李裡面，  
@@ -760,8 +760,8 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 我也不知道生命垂危反覆昏倒機能瀕臨崩潰的傷患說錯顏色算不算罕見。  
 但我的證件確實在黑色背包裡。</strong>  
 
-<span class="g">而我的黑色背包，一樣,</span>   
-<span class="g">兩個都被丟包。</span>  
+<span class=g23>而我的黑色背包，一樣,</span>   
+<span class=g12>兩個都被丟包。</span>  
 
 如果你以為這是溝通問題，那麼，  
 <strong class="rd">我不知道專責業務人員跟反覆昏厥失血失溫的瀕死傷患計較溝通問題算是什麼道理。</strong>  
@@ -810,7 +810,7 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 
 <strong class="rd">沒有後果，有人撐腰，</strong>  
 
-<span class="g">他們是不會輕易放棄的</span>    
+<span class=g14>他們是不會輕易放棄的</span>    
 
 【 客觀事實 】：
 7月中旬的颱風假隔天,   
@@ -832,7 +832,7 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 所以，我再次將他壓制在地上。  
 然後，他說：    
 
-<span class="g">你完了，我有親戚在當警察。</span>  
+<span class=g24>你完了，我有親戚在當警察。</span>  
 
 當我跟他確認，    
 
@@ -906,7 +906,7 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 <strong class="rd">談到中期，兩個警察並排，肩並肩，同時面向我，  
 我和他們談了好一陣，我再三表示沒有追究的意願之後，結束談話之後，  
 
-<span class="g">一轉身，發現對方站在我身後一步之處。</span>    
+<span class=g20>一轉身，發現對方站在我身後一步之處。</span>    
 
 <br>  
 原來，從第二位警察走過來並肩站開始，  
@@ -960,7 +960,7 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 
 這種社會代表著什麼大家想過嗎?  
 
-<span class="g">這篇文的寫作時序你們很清楚</span>    
+<span class=g8>這篇文的寫作時序你們很清楚</span>    
 
 10/25 早上六點依然在超商造謠的警方，  
 
@@ -980,10 +980,10 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 <strong class="rd">再來一次的話，  
 我會不會作同樣的事?    
 
-<span class="g">會。</span>  
+<span class=g8>會。</span>  
 
 無政治裙帶平民無差別級被放著等死這種事,   
-<span class="g">我依然會咆嘯。</span>  
+<span class=g12>我依然會咆嘯。</span>  
 
 但我會充分考慮我的承擔與付出有多少是髒成這樣的東西在享用。</strong>  
 
