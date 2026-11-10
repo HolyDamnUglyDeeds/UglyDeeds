@@ -1,0 +1,132 @@
+* {
+    background-color: #000;
+    position: static !important;
+    z-index: auto !important;
+    transform: none !important;
+    will-change: auto !important;
+    filter: none !important;
+    isolation: auto !important;
+    opacity: 1 !important;
+    mix-blend-mode: screen !important;
+}
+
+.g {
+    text-shadow:
+        0 0 0.9rem #000,    
+        0 0 0.9rem #000,
+        0 0 0.9rem #000,    
+        0 0 0.9rem #000,
+        0 0 0.9rem #000,
+        0 0 0.9rem #000,
+        0 0 0.9rem #000,
+        0 0 1rem #000,
+        -0.3rem -0.5rem 2rem #800,
+        -0.3rem -0.5rem 2rem #800,
+        -0.3rem -0.5rem 2rem #800,
+        -0.3rem -0.5rem 2rem #800,
+        -0.3rem -0.5rem 2rem #800,
+        -0.3rem -0.5rem 2rem #800,
+        -1rem 1.2rem 5rem #f00,
+        -1rem 1.2rem 5rem #f00,
+        -1rem 1.2rem 5rem #f00,
+        -1rem 1.2rem 5rem #f00,
+        -1rem 1.2rem 5rem #f00,
+        -1rem 1.2rem 5rem #f00,
+        -1rem 1.2rem 5rem #f00,
+        -1rem 1.2rem 5rem #f00,
+        -1rem 1.2rem 5em #f00;
+    color: rgb(255, 00, 00);
+    font-weight:1000;
+}
+
+/*
+.g {
+    text-shadow:
+        0 0 0.2rem rgb(255, 68, 0),
+        0 0 0.6rem rgb(0, 0, 0),
+        0 0 0.8rem rgb(255, 0, 0),
+        0 0 1rem rgb(255, 0, 0);
+    color: rgb(255, 100, 44);
+    font-weight:1000;
+    mix-blend-mode: screen;
+}
+*/
+
+.rd, .strong {
+    color:#f00;
+}
+
+strong, b {
+    color: #fff;
+    font-weight:700;
+}
+
+.xb {
+    font-weight:800;
+    text-shadow:
+       0 0 0.9rem #f00,    
+        0 0 0.9rem #f00,
+        0 0 0.9rem #f00,    
+        0 0 0.9rem #f00,
+        0 0 0.9rem #f00,
+        0 0 0.9rem #f00,
+        0 0 0.9rem #f00,
+        0 0 1rem #f00,
+        -0.3rem -0.5rem 5rem rgb(255, 134, 0),
+        -0.3rem -0.5rem 5rem rgb(255, 134, 0),
+        -0.3rem -0.5rem 5rem rgb(255, 134, 0),
+        -0.3rem -0.5rem 5rem rgb(255, 134, 0),
+        -0.3rem -0.5rem 5rem rgb(255, 134, 0),
+        -0.3rem -0.5rem 5rem rgb(255, 134, 0),
+        -0.3rem -0.5rem 5rem rgb(255, 134, 0),
+        -0.3rem -0.5rem 5rem rgb(255, 134, 0);
+    color: #000;
+}
+/*.xb {
+    font-weight:1000;
+    text-shadow:
+        0 0 0.6rem #000,
+        0 0 0.8rem #400,
+        0 0 1rem #800,
+        0 0 1.5rem #c00,
+        0 0 2rem #e00,
+        0 0 2.5rem #f00,
+        0 0 3em #f00,
+        0 0 3.5em #f00,
+        0 0 4rem #f00,
+        0 0 4.5rem #f00,
+        0 0 5rem #f00;
+    color: #f00;
+    mix-blend-mode: screen;
+}*/
+
+
+blockquote {
+    border-left: 1px #800 solid;
+}
+
+hr {
+    border-top: 1px solid #f00 !important;
+}
+
+h2 {
+    border-bottom: 1px solid red !important;
+    color: #fff;
+}
+
+h3 {
+    border-bottom: 1px solid #800 !important;
+    color: #fff;
+}
+
+.eh2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.eh3 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+}
