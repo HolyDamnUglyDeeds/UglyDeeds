@@ -17,11 +17,13 @@ def random_bias(bias):
 
 
 def random_dim():
-    return int(random_bias(0.2) * 128), int(random_bias(0.2) * 50)
+    return (round(random_bias(0.2) * 128),
+            round(random_bias(0.2) * 50))
 
 
 def random_light():
-    return round(random_bias(0.2) * 208), round(random_bias(0.2) * 60)
+    return (round(random_bias(0.2) * 208),
+            round(random_bias(0.2) * 60))
            
 
 
