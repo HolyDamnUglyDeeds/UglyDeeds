@@ -12,18 +12,21 @@ def random():
     return randint(-100, 100) / 100
 
 
-def random_bias(bias):
-    return randint(round(100 * (1 - bias), 100) * round((1 + bias))) / 100
+def random_bias(base, bias):
+    return round(
+        randint(
+            round(base * (1 - bias)),
+            round(base * (1 + bias))
+        ) / 100
+    )
 
 
 def random_dim():
-    return (round(random_bias(0.2) * 128),
-            round(random_bias(0.2) * 50))
+    return random_bias(128, 0.2), random_bias(50, 0.2)
 
 
 def random_light():
-    return (round(random_bias(0.2) * 208),
-            round(random_bias(0.2) * 60))
+    return random_bias(208, 0.2), random_bias(60, 0.2)
            
 
 
