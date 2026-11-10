@@ -2,7 +2,8 @@
 from random import randint, random
 from pathlib import Path
 
-css = Path('style.org.css')
+css = Path('.vscode/style.org.css')
 main = Path('main.org.md')
 
-print(css.read_text(encoding='utf8'))
+
+def make
