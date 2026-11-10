@@ -20,11 +20,11 @@ def random_bias(base, bias):
 
 
 def random_dim():
-    return random_bias(128, 0.1), random_bias(50, 0.1)
+    return random_bias(128, 0.1)
 
 
 def random_light():
-    return random_bias(232, 0.1), random_bias(60, 0.1)
+    return random_bias(232, 0.1)
            
 
 
@@ -39,25 +39,23 @@ def make_g():
         offset_y_3 = random() + 1
         offset_3 = f'{offset_x_3}rem {offset_y_3}rem 5rem'
         
-        color_2_r, color_2_g = random_dim()
-        color_2 = f'rgb({color_2_r}, {color_2_g}, 0)'
-        color_3_r, color_3_g = random_light()
-        color_3 = f'rgb({color_3_r}, {color_3_g}, 0)'
+        color_2 = f'rgb({random_dim()}, 0, 0)'
+        color_3 = f'rgb({random_light()}, 0, 0)'
         
         _css = f'''.g{_} {{
     color: #f00;
     font-weight:1000;
     text-shadow:
     '''
-        for __ in range(7):
-            _css += '''0 0 1rem #000,
+        for __ in range(15):
+            _css += '''0 0 0.2rem #000,
         '''
         
-        for __ in range(7):
+        for __ in range(10):
             _css += f'''{offset_2} {color_2},
         '''
         
-        for __ in range(9):
+        for __ in range(14):
             _css += f'''{offset_3} {color_3},
         '''
         
@@ -77,7 +75,7 @@ def make_bx():
         offset_y = random()
         offset_2 = f'{offset_x}rem {offset_y}rem 5rem'
         
-        color_2 = f'rgb({random_bias(232, 0.1)}, {random_bias(122, 0.1)}, 0)'
+        color_2 = f'rgb({random_bias(232, 0.1)}, {random_bias(82, 0.1)}, 0)'
         
         _css = f'''.xb{_} {{
     color: #000;
