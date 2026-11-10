@@ -28,4 +28,22 @@
     "description": "英文 h3",
     "scope": "markdown,plaintext"
   },
+
+  "折疊區塊：頭": {
+    "prefix": "rfs",
+    "body": [
+      "<!-- #region ${1} -->"
+    ],
+    "description": "折疊區塊：頭",
+    "scope": "markdown"
+  },
+
+  "折疊區塊：尾": {
+    "prefix": "rfe",
+    "body": [
+      "<!-- #endregion -->"
+    ],
+    "description": "折疊區塊：尾",
+    "scope": "markdown"
+  },
 }

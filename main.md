@@ -3,7 +3,7 @@
 # 認真的
 <font size="5"><b>Seriously.</b></font>
 
-
+<!-- #region 認真的 -->
 我說過我很膽小，我很怕，我怕到快要瘋掉了。  
 I told you, I’m a coward. I’m scared. And I'm so scared that I feel like I’m about to lose my mind.  
   
@@ -12,13 +12,14 @@ If I stop posting updates, it means they dealt with me for refusing to give in l
 
 為何前幾次都沒事，這次會這麼特別?  
 Previous instances similarly involved all ugly deeds, yet remained non-fatal. Why is this specific occurrence perceived as fatal?
-
+<!-- #endregion -->
 <br>
 
 ## 恩惠
 <p class="eh2">favor</p>
 <br>  
 
+<!-- #region 恩惠 -->
 
 因為有警員當面告訴我，他的職務就是**施加恩惠給民眾**。  
 Because a police officer told me to my face that his job was to **grant favors to the public**.
@@ -94,10 +95,10 @@ When I sought further confirmation, the officer immediately transitioned to a re
 如果你想見識全台灣最囂張的公務員，來板橋，去派出所，多說幾句。  
 To witness the highest degree of arrogance among Taiwanese civil servants, one may visit a police station in Banqiao and engage in a prolonged conversation.  
 
+<!-- #endregion -->
 
 
-
-
+<!-- #region OUT LINKS -->
 
 https://x.com/Holydamn20  
 https://x.com/UglyDeeds  
@@ -107,7 +108,7 @@ https://substack.com/@uglydeeds
 https://substack.com/@holydamn  
 https://uglydeeds3.substack.com/  
 
-
+<!-- #endregion -->
 
 
 <br>  
@@ -117,6 +118,7 @@ https://uglydeeds3.substack.com/
 <p class="eh2">The Past: The Scooter Accident</p>
 <br>
 
+<!-- #region 車禍 -->
 
 【 客觀事實 】：  
 The cold fact:
@@ -170,21 +172,22 @@ And How am I supposed to understand the combined signal of "amulance drive"
 與「誘導筆錄」這個動作  
 所聯合傳遞的資訊?   
 and the "leading statement"?
-
+<!-- #endregion -->
 <br>
 
-## 過去：疫情
-<p class"eh2">The Past: The COVID-19 Pandemic</p>
+## 過去：一切的開始：疫情
+<p class"eh2">The Past: The beginning of everything: COVID-19 Pandemic</p>
 <br>
 
+<!-- #region 疫情 -->
 眾所皆知的疫情事端有多骯髒下流，   
-The sordid nature of what happened during the COVID-19 pandemic is common knowledge for many now.  
+The sordid nature of what happened during the COVID-19 pandemic had become common knowledge for many now.  
 我就不多說。    
- I will not elaborate.  
+I will not elaborate.  
 
 我沒想到的，是「輿情」居然是這些國家這麼重視的東西。  
 重視到無所不用其極，  
-I underestimated the depth of these nations' obsession with public opinion, and the lengths they are willing to go.  
+I underestimated the depth of these nations' obsession with the manipulations of public opinion, and the lengths they are willing to go.  
 
 <strong>Everything is permitted.</strong>  
 
@@ -205,7 +208,7 @@ As long as they desire it,
 "Want her in the trade?"</span>  
 
 <strong>Everything is permitted.</strong>
-
+<!-- #endregion -->
 <br>  
 
 ### 監控
