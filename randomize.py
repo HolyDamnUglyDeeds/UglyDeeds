@@ -79,7 +79,7 @@ def make_bx():
         offset_y = random()
         offset_2 = f'{offset_x}rem {offset_y}rem 5rem'
         
-        color_2 = f'rgb({round(random_bias(0.2) * 208)}, {round(random_bias(0.2) * 112)}, 0)'
+        color_2 = f'rgb({random_bias(208, 0.2)}, {random_bias(112, 0.2)}, 0)'
         
         _css = f'''.xb{_} {{
     color: #000;
