@@ -13,7 +13,7 @@ def random():
 
 
 def random_bias(bias):
-    return randint(100 * (1 - bias), 100 * (1 + bias)) / 100
+    return randint(round(100 * (1 - bias), 100) * round((1 + bias))) / 100
 
 
 def random_dim():
