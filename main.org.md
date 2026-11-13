@@ -217,58 +217,83 @@ As long as they desire it,
 
 【 客觀事實 】：
 The cold fact.
+
 > 從疫情時開始
 > Since the COVID-19 pandemic,
 > <span class="g">持續到現在。</span>  
-> persistent, uninterrupted, ongoing surveillance and dissemination is sustained, even now.
+> <span class="g">persistent, uninterrupted, ongoing surveillance and dissemination is sustained, even now.</span>   
+> 
 > <span class="g">我在電子設備裡輸入的「每一個字」，</span>  
-> Every single words I type, 
+> <span class="g">Every single words I type, /span>  
+> 
 > <span class="g">我的私人筆記，</span>  
-> each of my personal notes,
+> <span class="g">each of my personal notes,/span>  
+> 
 > <span class="g">我的私人寫作，</span>  
-> all my persional writings,
+> <span class="g">all my persional writings,/span>  
+> 
 > <span class="g">我的私人通訊，</span>  
-> all my private conversations and communications, 
+> <span class="g">all my private conversations and communications, /span>  
+> 
 > <span class="g">而且是雙向散佈，</span>  
-> Is disseminated bidirectionally,
+> <span class="g">Is disseminated bidirectionally,/span>  
+> 
 > <span class="g">我的私人數位內容，</span>  
-> All my private digital info and ontent,
+> <span class="g">All my private digital info and ontent,/span>  
+> 
 > <span class="g">我的物理位置，</span>  
-> my each and every location,  
+> <span class="g">my each and every location,  /span>  
+> 
 > <span class="g">我的舉止與言論</span>  
-> all my actions and words, 
+> <span class="g">all my actions and words, /span>  
+> 
 > <span class="g">全部都會被散佈</span>  
-> is dissemiated. 
+> <span class="g">s dissemiated. /span>  
+>
 > <br> 
 >
 > <span class="g">甚至是跨國散佈</span>  
-even transnationally.
+> <span class="g">even transnationally.</span>  
+
 <br>
 
 <strong class="rd">所有經手人，  
 Reguardless everyone who had accessed my private info and content,
+
 所有公職在身的經手人，  
 each and every public servant, 
+
 所有帶有司法性質的經手人  
 each and every law related one,
+
 所有帶有國安性質的經手人  
 each and every national security handler,
+
 所有帶有政治性質的經手人  
-each and every political figures, L
+each and every political figures,  
+
 甚至是平民經手人  
 even the civilians, 
+
 我不知道是否有誰，曾經有過異議  
 I don't know if anyone has ever submitted any differing opinions.  
+
 我只知道   </strong>  
 But I know, 
+
 <span class="g">從疫情到現在</span>   
-Since the COVID-19 pandemic, 
+<span class="g">Since the COVID-19 pandemic, </span>    
+
 <span class="g">監控與散佈這件事</span>   
-the surveillance and disseminations, 
+<span class="g">the surveillance and disseminations, </span>    
+
 <span class="g">從來不曾被阻止</span>    
-never stopped, 
+<span class="g">never stopped,</span>     
+
 <span class="g">從來不曾被改變</span>    
-never changed.  
+<span class="g">never changed.</span>      
+
+<br>  
 
 【 客觀事實 】：
 > <strong class="rd">沒人比你們更清楚，無論有多艱難  
