@@ -807,21 +807,11 @@ this is called "fit the true qualification of their uniform.
 
 <!-- #endregion -->  
 
-## 高雄
+### 高雄
 <p class="eh3">Kaohsiung</p>  
 <br>  
   
-
-
-
-
-
-
-
-
-
-
- 
+<!-- #region 高雄 -->
 當我身體狀況越來越差，幾乎到了難以為繼的程度時，我決定到親戚家休整幾天。至少，能夠睡幾天。  
 With my physical condition nearing collapse, I retreated to a relative's house, at least to be able to sleep for several days.  
 
@@ -833,6 +823,13 @@ At Kaohsiung Station, they shown themself as always to let you know
 
 他們依然在全場緊迫盯人。  
 the surveillance remains absolute.  
+
+
+他們仍然在造謠。  
+the fabrications remain brazen.
+
+<strong class="rd">他們對我親戚親鏍戚說：我拿錢當人頭。</strong>  
+<strong class="rd">They told my relatives I sold my identity for cash.</strong>  
 <br>  
 
 在我這幾年的生活中，高雄醫院的荒謬程度實在太微不足道。相較之下，他們完全稱得上稱職。  
@@ -857,18 +854,11 @@ how rare this kind of restraint is.
 
 <!-- #endregion -->
 
-## 北榮
-Taipei Veterans General Hospital
+### 北榮
+<p class="eh3">Taipei Veterans General Hospital</p>  
+<br>  
 
-At the Taipei Veterans General Hospital ER, I repeatedly specified my pleural effusion and inability to lie flat.
-
-It took a respiratory and cardiopulmonary arrest of eight minutes for the attending physician to learn the effusion.
-
-It is irrational for an ER physician to observe massive edema and severe arrhythmia, ignore a patient's warning, and forcibly insist they lie flat.
-
-The outcome was immediate: cardiopulmonary arrest within five minutes. 
-
-No one was held accountable.
+<!-- #region 北榮 -->
 
 Neither the abuse and visible physical scarring in the ICU,
 
@@ -891,26 +881,37 @@ But consequences are indeed absent.
 Taipei Veterans General Hospital is not an isolated incident.
 
 The strategic placement of patients in the ICU via fabricated justifications will recur.
+
 當我走進北榮急診，  
+At the Taipei Veterans General Hospital ER,  
+
 我多次強調我是胸水，   
 我多次強調我不能躺。  
+I repeatedly specified my pleural effusion and inability to lie flat.  
 
 但是在我呼吸心跳停止八分鐘，被救回來後，主治醫師才知道我的水腫是胸水。  
+It took a respiratory and cardiopulmonary arrest of eight minutes for the attending physician to learn the effusion.
 
 我不相信一個急診醫師見到病患身上有幾十公斤的水腫，聽到病患主張不能躺，看見心電圖的嚴重心律不整，  
 
 可以合理的作出，  
   
 要求病患儘量躺低一點的指示與強硬要求。
+It is irrational for an ER physician to observe massive edema and severe arrhythmia, ignore a patient's warning, and forcibly insist they lie flat.
 
 
 <span class="g">事實證明，</span>  
+<span class="g">The outcome was immediate: </span>  
+<br>  
 
 <span class="g">我躺下不到五分鐘，</span>  
-
 <span class="g">就停止呼吸心跳了。</span>  
+<span class="g">cardiopulmonary arrest within five minutes. </span>  
+<br>  
 
 <span class="g">但沒人為此負責。</span>  
+<span class="g">No one was held accountable.</span>  
+<br>  
 
 <span class="g">在ICU的凌虐，</span>  
 
