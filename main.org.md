@@ -860,13 +860,13 @@ how rare this kind of restraint is.
 
 <!-- #region 北榮 -->
 
-Neither the abuse and visible physical scarring in the ICU,
 
-nor the entrapment at Fuzhou Bridge,
 
-no one had ever incurred any responsibility.
 
-A metabolism specialist treating a heart without interdepartmental consultation is similarly exempt from accountability.
+
+
+
+
 
  I refuse to accept abstract political responsibility for legal expression. In short: I posted a critique during the Level 3 alert; I did not seek to step into politics.
 
@@ -893,11 +893,13 @@ I repeatedly specified my pleural effusion and inability to lie flat.
 It took a respiratory and cardiopulmonary arrest of eight minutes for the attending physician to learn the effusion.
 
 我不相信一個急診醫師見到病患身上有幾十公斤的水腫，聽到病患主張不能躺，看見心電圖的嚴重心律不整，  
+It is irrational for an ER physician to observe massive edema and severe arrhythmia,   
 
 可以合理的作出，  
-  
+ignore a patient's warning,   
+
 要求病患儘量躺低一點的指示與強硬要求。
-It is irrational for an ER physician to observe massive edema and severe arrhythmia, ignore a patient's warning, and forcibly insist they lie flat.
+and forcibly insist they lie flat.  
 
 
 <span class="g">事實證明，</span>  
@@ -914,18 +916,28 @@ It is irrational for an ER physician to observe massive edema and severe arrhyth
 <br>  
 
 <span class="g">在ICU的凌虐，</span>  
-
 <span class="g">身上傷痕累累，</span>  
-
 <span class="g">也沒人為此負責。</span>  
+<span class="g">Neither the abuse nor visible physical scarring in the ICU,</span>  
+<br>  
 
 <span class="g">在浮洲橋的構陷，</span>  
+<span class="g">nor the entrapment at Fuzhou Bridge,</span>  
+<br>  
 
 <span class="g">也沒人為此負責。</span>  
+<span class="g">no one had ever incurred any responsibility.</span>  
+<br>  
+
 
 <span class="g">新陳代謝科醫師不經照會在自行醫治心臟，</span>  
+<span class="g">A metabolism specialist treating a heart without multidisciplinary consultation</span>  
+<br>  
 
 <span class="g">也不必負責。</span>  
+<span class="g">is similarly exempt from accountability.</span>  
+<br>  
+
 
 就因為我在疫情時與整個政府對立，   
 
