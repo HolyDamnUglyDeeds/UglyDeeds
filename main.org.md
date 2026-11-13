@@ -860,18 +860,6 @@ how rare this kind of restraint is.
 
 <!-- #region 北榮 -->
 
-
-
-
-
-
-
-
-
- I refuse to accept abstract political responsibility for legal expression. In short: I posted a critique during the Level 3 alert; I did not seek to step into politics.
-
-
-
 當我走進北榮急診，  
 At the Taipei Veterans General Hospital ER,  
 
@@ -960,8 +948,6 @@ Thus, so many of you,
 一個接一個，  
 one by one, 
 
-
-
 一群接一群，
 group by group,
 
@@ -1001,9 +987,11 @@ But consequences are indeed absent.</span>
 
 <br>  
 
-## 亞東  
-Far Eastern Memorial Hospital
+### 亞東  
+<p class="eh3">Far Eastern Memorial Hospital</p>  
+<br>  
 
+<!-- #region 亞東 -->
 Far Eastern differs entirely from Kaohsiung and Taipei Veterans.
 They are totally forced.
 Therefore,
@@ -1058,155 +1046,280 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 As usual, please replace the "httpR" to "https".
 
 板橋的
-
+<!-- #endregion -->
 
 <br>
 
-## 板車
-Banqiao Station
+### 板車
+<p class="eh3">Banqiao Station</p>  
+<br>  
 
-Consider their most stunningly incapable behaviors.
+<!-- #region 板車 -->
 
-Objective Fact:
-
-They planted the "habitual theft". They lied until the lie became their truth. They start to believe it is true. They continue to set traps for real habitual thieves to try to catch you steal while acting disgusted by habitual thieves.
-
-Individual delusion is one thing.
-Collective self deception among a connected, 
-active group performing acts divorced from reality with confidence will sear a permanent impression into normal peoples' brand:
-
-Collective distortion.
-A warped group,
-centered on law enforcement.
 大家知道，這些人最讓人瞠目結舌，   
-最讓人難以致信的<strong class="xb">低能</strong>是什麼嗎?
-
+最讓人難以致信的<strong class="xb">低能</strong>是什麼嗎?  
+Consider their most stunningly <strong class="xb">incapable</strong> behaviors.    
+  
 【 客觀事實 】：
+Objective Fact:  
+
 > <span class="g">他們很清楚所謂慣竊是他們栽贓的</span>  
+> <span class="g">They planted the "habitual theft".</span>  
+> <br>  
 > <span class="g">但他們血口噴人噴到連自己都信了</span>  
+> <span class="g">They lie to the point of self-delusion.</span>  
+> <br>  
+> 
+> <span class="g">They start to believe it is true. </span>  
+> <br>  
+> 
 > <span class="g">他們持續對著你設下一個又一個的偷竊便利局，</span>  
+> <span class="g">They continue to set traps for real habitual thieves to try to catch you steal while acting disgusted by habitual thieves.</span>  
+> <br>  
+>
 > <span class="g">還會對你擺出對慣竊衊視的姿態，</span>  
->  
+> <span class="g">They even display the disdain reserved for habitual thieves.</span>  
+
+<br>  
+<br>  
 
 <span class="g">一個人也就算了，</span>  
+<span class="g">Individual delusion is one thing.</span>  
+<br>  
 <span class="g">當一群人集體自欺欺人至此，</span>  
 <span class="g">當這群人都有共性與關聯，</span>  
 <span class="g">當這些人持續在活躍，</span>  
+<br>  
 
 當這些人持續在幹著出格的事，而且都很得意, 你只會收到一個強烈到無法抹去，無法無視的印象：  
-
+Collective self deception among a connected, 
+active group performing acts divorced from reality with confidence will sear a permanent impression into normal peoples' brand:    
 <br>
 
 <span class="g">群體的扭曲。</span>  
+<span class="g">Collective distortion.</span>  
+<br>  
+
 <span class="g">扭曲的群體</span>  
+<span class="g">A warped group,</span>  
+<br>  
+
 <span class="g">以執法人員為骨幹</span>  
+<span class="g">centered on law enforcement.</span>  
+<br>  
 
 <br>
+<!-- #endregion -->
+
+### 板捷
+<p class="eh3">Banqiao MRT Station</p>  
+<br>  
+
+<!-- #region 板捷 -->
 
 
-## 板捷
-Banqiao MRT Station
 
 
 
-Objective Fact:
-A lackey was sent to attack me at Banqiao MRT Station. I know he is a lackey because his first move was a "habitual thief" setup, as incapable as the others.
-
-My first report to the police was ineffective; I was attacked again in less than twelve hours.
-
-During the second report, two significant concerns arose:
-
-First, the attacker was permitted to stand directly behind the officers and eavesdrop on the entire conversation between myself and the police. He was even allowed to join the conversation.
-
-My first police report was ignored; I was attacked again within twelve hours.
-
-During the second report, the police allowed the attacker to stand behind them and join the conversation between me and the police. They further discouraged me from pursuing a lawsuit, claiming it would be pointless as the total compensation would only range from 300 to 500 NTD.
-
-
-Objective Fact:
-No comment on these points.
-Let society decide.
-
-
-Consequently, the lackey didn't stop;
-Calling the police COST HIM NOTHING and PROVIDED HIM NO DETERRENT.
-
-Why I let him continue?
-Why didn't I fight back?
-
-He is over seventy.
-
-Again, I offer no further evaluation
-and leave the judgment to the public upon reading the full text.
-
-This marks my third encounter with the police in recent years. all instances problematic and controversial, not just matter of opinion.
-
-
-Please consider I do mention the current political climate.
 
 【 客觀事實 】：
+Objective Fact:  
+
 > 他們派了一條走狗，在板捷多次對我動手。  
+> A lackey was sent to attack me many times at Banqiao MRT Station.
+> 
 > 之所以知道那是條走狗， 
+> I know he is a lackey   
+> 
 > 是因為第一次接觸，他就玩了一手自以為我是慣竊的設局。 
+> because his first move was a "habitual thief" setup, 
+> 
 > 就跟那些人一樣白痴那種。  
+> as incapable as the them.  
 >
-> 第一次報警，沒用，不到十二小時就又動手。<br>
+> 第一次報警，沒用，不到十二小時就又動手。  
+> My first report to the police was ineffective; I was attacked again within less than twelve hours.
+  
+<br>
 
 第二次報警，  
 <strong class="rd">我覺得有兩件事非常不對勁。</strong>  
+<strong class="rd">During the second report, two significant concerns arose:</strong>  
+<br>  
 
 <span class="g">一、動手打人的，</span>  
+<span class="g">First, the attacker</span>  
+<br>  
 
 <span class="g">居然可以站在警察後方兩步之處，</span>  
+<span class="g">was permitted to stand 2 steps behind the officers</span>  
+<br>  
 
 <span class="g">全程監聽警察和被害人的對談。</span> 
- 
+<span class="g">and listen in on the entire conversation between myself and the police. </span>  
+<br>  
+
+<span class="g">甚至還參與對談。</span>  
+<span class="g">He was even allowed to join the conversation.</span>  
+<br>  
+<br>  
 
 <span class="g">二、警察明白告訴我，</span>  
+<span class="g">The police officer told me directly,</span>  
+<br>  
 
 <span class="g">這種傷我提告也沒用，</span>   
+<span class="g">lawsuit would be pointless,</span>  
+<br>  
 
 <span class="g">就只會罰參伍佰塊。</span>  
+<span class="g">the total compensation would only range from 300 to 500 NTD.</span>  
+<br>  
+
 
 【 客觀事實 】：
+Objective Fact:
+
 > 以上兩點，我不評價。  
+> No comment on these points.  
+> 
 > 社會自有公論。  
+> Let society decide.  
+> 
 > 所以，完全可以想像，那走狗完全沒收斂，  
+> Consequently, the lackey didn't stop;  
+> 
 > 因為報警他不會痛。：  
+> Calling the police COST HIM NOTHING and PROVIDED HIM NO DETERRENT.  
 
 <br>
 
-為何我讓他一直動手?  
+為何我讓他一直動手?    
+Why I let him continue attacking me?  
+
 為何我不還手?   
+Why didn't I fight back?  
 
 <span class="g">因為他七十幾歲了。</span>  
+<span class="g">He is over seventy.</span>  
+<br>  
 
-這點我依然不評價。  
+這點我依然不評價。    
+Again, I offer no further evaluation  
+
 看完全篇，大家自有公論。  
+and leave the judgment to the public upon reading the full text.  
 
 這是這些年第三次和警察打交道，  
+This marks my third encounter with the police in recent years.   
+
 沒一次不招人非議。  
+All instances problematic and controversial,   
+
 而且不是見仁見智那種。  
+not just matter of opinion.  
+<br>
 
 不要忘了，我提過，政局如此。  
 <br>
 
+Please consider I do mention the current political climate.
 
-## 第四次
-Fourth Instance
+<!-- #endregion -->  
+<br>  
 
-Final days of last year,
-I attempted to leave.
-I was found by themaintenance staff of the High Riverbank Construction Management Office under the New Taipei City Government.
-Temperature: 11°C.
-Attire: short sleeves.
-Exposure: four hours of rain.
-Condition: significant blood loss and hypothermia.
+### 第四次
+<p class="eh2">Fourth Instance</p>  
+<br>  
 
-I recall the ambulance. Police inquired about identification. I stated it was in the big black bag. I lost consciousness multiple times during this conversation.
+<!-- #region 第四次 -->
+
 
 Objective Fact:
-While conscious, I witnessed paramedics removing my luggage from the vehicle. Post hospital, I recover all my luggage but my phone, power bank, and two forms of identification.
+While conscious, I witnessed 
+
+
+
+This is the fourth time.  
+
+去年年底我試過，  
+Final days of last year, I attempted to leave.  
+
+如果不是剛好遇上高灘工人在除草，  
+我已經離開了。   
+I was found by themaintenance staff of the High Riverbank Construction Management Office under the New Taipei City Government.  
+
+我不只放血，還放溫。  
+氣溫11度放血還穿短袖淋雨，   
+被發現時，我已經淋了四小時的雨。   
+Temperature: 11°C.  
+Attire: short sleeves.  
+Exposure: four hours of rain.  
+Condition: significant blood loss and hypothermia.  
+
+只不過，  
+However,
+
+碰巧，我記得在救護車上的事。  
+Coincidentally, I remember what happened on the ambulance.  
+
+非常巧，我看見了我應該看見的事。  
+Very coincidentally, I saw what I was meant to see.  
+ 
+
+<br>
+
+<strong class="rd">【 客觀事實 】：  
+Objective Fact:  
+
+> 當我在救護車上被叫醒，警察問我有無證件，  
+> I was woked up on the ambulance, Police inquired about identification.
+> 
+> 我說，在黑色大袋子裡。   
+> I stated it was in the big black bag.  
+> 
+> 警察重複了幾次：黑色大袋子?   
+> the Police repeated several times: big black bag?    
+>
+> 我說，對，黑色大袋子。  
+> I repeated several times: yes, big black bag.    
+> 
+> 這中間我又昏過去多次。   
+> I lost consciousness multiple times during this conversation.
+> 
+> 然後，某次被叫醒時，我看見，   
+> on one occasion of being awakened, I witnessed  
+</strong>  
+
+<br>  
+
+<span class="g">救護車的人員，</span>  
+<span class="g">the paramedics</span>  
+<br>  
+
+<span class="g">把我的行李拿下車。</span>  
+<span class="g">removing my luggage from the ambulance.</span>  
+<br>  
+
+<span class="g">出院後，我在原地找到所有的行李，</span>  
+<span class="g">After discharge, I found all the luggage at where I was found.</span>  
+<br>  
+
+<br>  
+
+<span class="g">除了我的手機，行動電源，證件，</span>  
+<span class="g">都被人拿走。</span>  
+
+我的行李是藍色，裡面東西比較雜。  
+黑色大背包如果不是在藍色行李裡面，  
+就是和藍色行李袋加起來，共兩件行李。   
+
+不管是哪個，我的行李都同樣被扔出救護車。  
+黑色大後背包也是，  
+黑色大側背包也是，藍色行李袋也是。  
+
+<br>   
+  Post hospital, I recover all my luggage but my phone, power bank, and two forms of identification.
 
 The luggage consisted of a blue bag and two black bags (a big backpack and a shoulder bag). My two forms of identification were in the black shoulder bag, All were discarded.
 
@@ -1221,50 +1334,6 @@ If not, I find it even more unjustifiable that the police or paramedics removed 
 Again, my two forms of identification were in the black shoulder bag.
 
 By the way, the paramedic was from the New Taipei City Fire Department.
-
-
-
-This is the fourth time.
-去年年底我試過，  
-如果不是剛好遇上高灘工人在除草，  
-我已經離開了。   
-我不只放血，還放溫。  
-氣溫11度放血還穿短袖淋雨，  
-被發現時，我已經淋了四小時的雨。 
-
-只不過，  
-
-碰巧，我記得在救護車上的事。  
-非常巧，我看見了我應該看見的事。  
-<br>
-
-<strong class="rd">【 客觀事實 】：
-> 當我在救護車上被叫醒，警察問我有無證件，  
-> 我說，在黑色大袋子裡。   
-> 警察重複了幾次：黑色大袋子?  
-> 我說，對，黑色大袋子。 
-> 這中間我又昏過去多次。   
-> 
-> 然後，某次被叫醒時，我看見， 
-> 
-</strong>  
-<br> 
-
-<span class="g">救護車的人員(消防隊)，</span>  
-<span class="g">把我的行李拿下車。</span>  
-<span class="g">所以我的手機，行動電源，證件，</span>  
-<span class="g">都被人拿走。</span>  
-
-我的行李是藍色，裡面東西比較雜。  
-黑色大背包如果不是在藍色行李裡面，  
-就是和藍色行李袋加起來，共兩件行李。   
-
-不管是哪個，我的行李都同樣被扔出救護車。  
-黑色大後背包也是，  
-黑色大側背包也是，藍色行李袋也是。  
-
-<br>   
-
 
 他們甚至沒試著打開來看裡面有沒有黑色袋子。  
 而警察目睹他丟包我的行李，  
