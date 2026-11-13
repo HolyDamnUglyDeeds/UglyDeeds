@@ -2,31 +2,34 @@
   "eh2": {
     "prefix": "eh2",
     "body": [
-      "<p class=\"eh2\">${1}</p>",
-      "<br>",
+      "<p class=\"eh2\">${1}</p>  ",
+      "<br>  ",
+      ""
     ],
     "description": "英文 h2",
-    "scope": "markdown,plaintext"
+    "scope": "markdown,plaintext,html"
   },
 
   "eh3": {
     "prefix": "eh3",
     "body": [
-      "<p class=\"eh3\">${1}</p>",
-      "<br>",
+      "<p class=\"eh3\">${1}</p>  ",
+      "<br>  ",
+      ""
     ],
     "description": "英文 h3",
-    "scope": "markdown,plaintext"
+    "scope": "markdown,plaintext,html"
   },
 
   "客觀事實": {
     "prefix": "tcf",
     "body": [
       "The cold fact:  ",
-      "<br>",
+      "<br>  ",
+      ""
     ],
     "description": "英文 h3",
-    "scope": "markdown,plaintext"
+    "scope": "markdown,plaintext,html"
   },
 
   "折疊區塊：頭": {
@@ -35,7 +38,7 @@
       "<!-- #region ${1} -->"
     ],
     "description": "折疊區塊：頭",
-    "scope": "markdown"
+    "scope": "markdown,plaintext,html"
   },
 
   "折疊區塊：尾": {
@@ -44,6 +47,74 @@
       "<!-- #endregion -->"
     ],
     "description": "折疊區塊：尾",
-    "scope": "markdown"
+    "scope": "markdown,plaintext,html"
+  },
+
+  "rd區塊": {
+    "prefix": "rd",
+    "body": [
+      "<strong class=\"rd\">${1}</strong>"
+    ],
+    "description": "rd區塊",
+    "scope": "markdown,plaintext,html"
+  },
+
+  "xb區塊": {
+    "prefix": "xb",
+    "body": [
+      "<strong class=\"xb\">${1}</strong>"
+    ],
+    "description": "xb區塊",
+    "scope": "markdown,plaintext,html"
+  },
+
+  "strong: end": {
+    "prefix": "se",
+    "body": [
+      "</strong>  "
+    ],
+    "description": "strong: end",
+    "scope": "markdown,plaintext,html"
+  },
+
+  "glow: end": {
+    "prefix": "ge",
+    "body": [
+      "</span>  ",
+      "<br>  ",
+      ""
+    ],
+    "description": "glow: end",
+    "scope": "markdown,plaintext,html"
+  },
+
+  "glow: start": {
+    "prefix": "gs",
+    "body": [
+      "<span class=\"g\">"
+    ],
+    "description": "glow: start",
+    "scope": "markdown,plaintext,html"
+  },
+
+  "glow": {
+    "prefix": "g",
+    "body": [
+      "<span class=\"g\">${1}</span>  ",
+      "<br>  ",
+      ""
+    ],
+    "description": "glow",
+    "scope": "markdown,plaintext,html"
+  },
+
+  "br": {
+    "prefix": "br",
+    "body": [
+      "<br>  ",
+      ""
+    ],
+    "description": "br",
+    "scope": "markdown,plaintext,html"
   },
 }

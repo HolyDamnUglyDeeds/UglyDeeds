@@ -24,8 +24,8 @@ Previous instances similarly involved all ugly deeds, yet remained non-fatal. Wh
 因為有警員當面告訴我，他的職務就是**施加恩惠給民眾**。  
 Because a police officer told me to my face that his job was to **grant favors to the public**.
 
-<span class=g17>我懇請你們去調勤務密錄器的影片，看完上下文，我懇請你們告訴我，我的理解有誤。</span>  
-<span class=g3>I implore you to review the officers’ body-camera footage. Watch the full context, then tell me I’m wrong.</span>
+<span class=g14>我懇請你們去調勤務密錄器的影片，看完上下文，我懇請你們告訴我，我的理解有誤。</span>  
+<span class=g18>I implore you to review the officers’ body-camera footage. Watch the full context, then tell me I’m wrong.</span>
 
 同時。  
 Meanwhile, 
@@ -125,7 +125,7 @@ The cold fact:
 > <strong class="rd">酒駕，酒測，登記之類的例行程序之後，警察跟我說的第一件事是：
 > After the breathalyzer, the paperwork, and the routine, the officer's first words were:  </strong>    
 >
-> <span class=g16>『對方替代役是開救護車的』<br>
+> <span class=g4>『對方替代役是開救護車的』<br>
 > "The other driver was a former alternative service ambulance driver."</span>  
 
 <br>  
@@ -147,7 +147,7 @@ The cold fact:
 > <strong class="rd">承辦員警問我：然後，<br>
 >  the officer asked: 'Then...  <br>  
 >
-> <span class=g18>『我就飛出去了』<br>
+> <span class=g1>『我就飛出去了』<br>
 > "I flew out,"</span>  
 > 對不對?    
 > right?  
@@ -204,7 +204,7 @@ It is all the same.
 只要他們想  
 As long as they desire it,   
 
-<span class=g6>想下海?<br>
+<span class=g10>想下海?<br>
 "Want her in the trade?"</span>  
 
 <strong>Everything is permitted.</strong>
@@ -221,49 +221,49 @@ The cold fact.
 > 從疫情時開始  
 > Since the COVID-19 pandemic,  
 > 
-> <span class=g15>持續到現在。</span>    
-> <span class=g0>persistent, uninterrupted, ongoing surveillance and dissemination is sustained, even now.</span>   
+> <span class=g0>持續到現在。</span>    
+> <span class=g1>persistent, uninterrupted, ongoing surveillance and dissemination is sustained, even now.</span>   
 > <br>  
 > 
-> <span class=g5>我在電子設備裡輸入的「每一個字」，</span>  
-> <span class=g22>Every single words I type, </span>  
+> <span class=g11>我在電子設備裡輸入的「每一個字」，</span>  
+> <span class=g25>Every single words I type, </span>  
 > <br>  
 > 
-> <span class=g12>我的私人筆記，</span>  
-> <span class=g23>each of my personal notes,</span>  
+> <span class=g22>我的私人筆記，</span>  
+> <span class=g13>each of my personal notes,</span>  
 > <br>  
 > 
-> <span class=g3>我的私人寫作，</span>  
-> <span class=g6>all my persional writings,</span>  
+> <span class=g13>我的私人寫作，</span>  
+> <span class=g22>all my persional writings,</span>  
 > <br>  
 > 
-> <span class=g9>我的私人通訊，</span>  
-> <span class=g19>all my private conversations and communications, </span>  
+> <span class=g5>我的私人通訊，</span>  
+> <span class=g22>all my private conversations and communications, </span>  
 > <br>  
 > 
-> <span class=g0>而且是雙向散佈，</span>  
-> <span class=g17>Is disseminated bidirectionally,</span>  
+> <span class=g12>而且是雙向散佈，</span>  
+> <span class=g9>Is disseminated bidirectionally,</span>  
 > <br>  
 > 
-> <span class=g22>我的私人數位內容，</span>  
-> <span class=g24>All my private digital info and ontent,</span>  
+> <span class=g13>我的私人數位內容，</span>  
+> <span class=g17>All my private digital info and ontent,</span>  
 > <br>  
 > 
-> <span class=g15>我的物理位置，</span>  
-> <span class=g16>my each and every location,  </span>  
+> <span class=g8>我的物理位置，</span>  
+> <span class=g13>my each and every location,  </span>  
 > <br>  
 > 
-> <span class=g21>我的舉止與言論</span>  
-> <span class=g24>all my actions and words, </span>  
+> <span class=g5>我的舉止與言論</span>  
+> <span class=g22>all my actions and words, </span>  
 > <br>  
 > 
-> <span class=g6>全部都會被散佈</span>  
-> <span class=g22>s dissemiated. </span>  
+> <span class=g3>全部都會被散佈</span>  
+> <span class=g1>s dissemiated. </span>  
 > <br>  
 > <br> 
 >
-> <span class=g17>甚至是跨國散佈</span>  
-> <span class=g1>even transnationally.</span>  
+> <span class=g3>甚至是跨國散佈</span>  
+> <span class=g5>even transnationally.</span>  
 
 <br>
 
@@ -293,20 +293,20 @@ But I know,
 <br>
 <br>    
 
-<span class=g4>從疫情到現在</span>   
-<span class=g18>Since the COVID-19 pandemic, </span>    
+<span class=g16>從疫情到現在</span>   
+<span class=g14>Since the COVID-19 pandemic, </span>    
 <br>  
 
-<span class=g12>監控與散佈這件事</span>   
+<span class=g22>監控與散佈這件事</span>   
 <span class=g4>the surveillance and disseminations, </span>    
 <br>  
 
-<span class=g17>從來不曾被阻止</span>    
-<span class=g2>never stopped,</span>     
+<span class=g7>從來不曾被阻止</span>    
+<span class=g21>never stopped,</span>     
 <br>  
 
-<span class=g2>從來不曾被改變</span>    
-<span class=g9>never changed.</span>      
+<span class=g24>從來不曾被改變</span>    
+<span class=g20>never changed.</span>      
 <br>  
 <br>  
 
@@ -314,32 +314,32 @@ But I know,
 > <strong class="rd">沒人比你們更清楚，無論有多艱難  
 > Of all people, you know this best. No matter how hard it is,
 > 
-> <span class=g15>我是什麼身份</span>  
-> <span class=g10>who I am and what I am,</span>  
+> <span class=g16>我是什麼身份</span>  
+> <span class=g20>who I am and what I am,</span>  
 > <br>   
 > 
-> <span class=g12>我作過什麼</span>  
-> <span class=g4>what I have done, </span>  
+> <span class=g18>我作過什麼</span>  
+> <span class=g8>what I have done, </span>  
 > <br>   
 > 
-> <span class=g1>我沒作過什麼</span>  
-> <span class=g20>what I have never done, </span>  
+> <span class=g10>我沒作過什麼</span>  
+> <span class=g11>what I have never done, </span>  
 > <br>   
 > 
-> <span class=g8>我堅守著什麼</span>  
-> <span class=g1>and what I hold like oaths.</span>  
+> <span class=g24>我堅守著什麼</span>  
+> <span class=g4>and what I hold like oaths.</span>  
 > <br>   
 > 
-> <span class=g19>你們一個個、一群群又是什麼身份</span>  
-> <span class=g23>Each and every one of you, what authority or office do you even claim?</span>  
+> <span class=g7>你們一個個、一群群又是什麼身份</span>  
+> <span class=g22>Each and every one of you, what authority or office do you even claim?</span>  
 > <br>   
 > 
-> <span class=g4>你們一個個，一群群，</span>  
-> <span class=g13>Each and every one of you,  </span>  
+> <span class=g24>你們一個個，一群群，</span>  
+> <span class=g0>Each and every one of you,  </span>  
 > <br>   
 > 
-> <span class=g11>又都堅持著，到處幹著些什麼</span>  
-<span class=g23>While posturing in your official capacities, what filth and illegal atrocities do you persistently spread everywhere?</span>  
+> <span class=g13>又都堅持著，到處幹著些什麼</span>  
+<span class=g16>While posturing in your official capacities, what filth and illegal atrocities do you persistently spread everywhere?</span>  
 <br>   
 
 </strong><br>  
@@ -361,17 +361,17 @@ aside from the surveillance, aside from the literal
  <strong class="xb">lethal menace and murderous intent,</strong>   
 
 <strong class="xb">肅殺至極</strong>的,    
-<strong class="xb">utterly chilling,</strong>,   
+<strong class="xb">utterly chilling,</strong>   
 
 還有居家的即時嗆聲與  
 there were also real time threats at my home,  
 <br>
 
-<span class=g21>一波又一波的</span>  
-<span class=g3>wave upon wave of</span>   
+<span class=g24>一波又一波的</span>  
+<span class=g9>wave upon wave of</span>   
 <br>  
-<span class=g17>黑色恐嚇</span>  
-<span class=g12>black terror.</span>  
+<span class=g25>黑色恐嚇</span>  
+<span class=g10>black terror.</span>  
 <br>  
 
 請問，   
@@ -384,14 +384,14 @@ when you are an ordinary citizen with an impeccably clean record and a completel
 <br>  
 
 <span class=g3>正因為，就因為</span>  
-<span class=g3>precisely because, simply because </span>  
+<span class=g8>precisely because, simply because </span>  
 <br>  
-<span class=g13>你是身家清白，背景乾淨單純的</span>  
-<span class=g22>you are an ordinary citizen </span>  
+<span class=g8>你是身家清白，背景乾淨單純的</span>  
+<span class=g24>you are an ordinary citizen </span>  
 <br>  
  
-<span class=g11>普通民眾</span>  
-<span class=g15>with an impeccably clean record and a completely untainted background, </span>  
+<span class=g3>普通民眾</span>  
+<span class=g6>with an impeccably clean record and a completely untainted background, </span>  
 <br>  
 
 
@@ -404,11 +404,11 @@ compounded by
 
 
 <span class=g21>絲毫不掩飾</span>  
-<span class=g17>unmasked</span>    
+<span class=g19>unmasked</span>    
 <br>  
 
-<span class=g17>明擺著的黑白勾結</span>  
-<span class=g14>collusion between officials and criminals,</span>  
+<span class=g23>明擺著的黑白勾結</span>  
+<span class=g5>collusion between officials and criminals,</span>  
 <br>  
 
 你該怎麼辦?  
@@ -427,27 +427,27 @@ Do not forget.
 There were   
 
 <strong class="rd">在網路上到處緊跟著你的     
-<span class=g18>活摘器官的廣告</span>     
-<span class=g15>organ harvesting advertisements</span> tracking you online.</strong>   
+<span class=g16>活摘器官的廣告</span>     
+<span class=g24>organ harvesting advertisements</span> tracking you online.</strong>   
 <br>  
 <br>
 
-<span class=g0>對 !</span>    
-<span class=g22>Correct. </span>    
+<span class=g4>對 !</span>    
+<span class=g7>Correct. </span>    
 <br>  
-<span class=g17>是廣告。</span>    
-<span class=g18>Advertisements.</span>      
+<span class=g0>是廣告。</span>    
+<span class=g3>Advertisements.</span>      
 <br>  
 <br>  
 
-<span class=g17>是他們的投放</span>   
-<span class=g18>Their deployment.</span>   
+<span class=g25>是他們的投放</span>   
+<span class=g13>Their deployment.</span>   
 <br>  
-<span class=g7>是他們在張羅</span>  
-<span class=g19>Their arrangement.</span>   
+<span class=g17>是他們在張羅</span>  
+<span class=g6>Their arrangement.</span>   
 <br>  
-<span class=g22>是他們在組織</span>  
-<span class=g12>Their organization.</span>   
+<span class=g2>是他們在組織</span>  
+<span class=g24>Their organization.</span>   
 <br>  
 
 
@@ -475,10 +475,9 @@ What's your last ditch?
 <br>
 
 
-[Objective Facts]
-Under Fuzhou Bridge, I took your bait for kindness.
-I left a note.
-I responded to the perceived goodwill.
+
+
+
 
 Subsequently, what did you do?
 
@@ -512,10 +511,18 @@ The most important thing I have been forced to learn these years:
 As long as staying in Banqiao, there will always be next planting the blame, framing, and setup
 
 【 客觀事實 】：
+Objective Facts
+
 > 當我在浮洲橋下，第一次，我將你們的餌，當成民眾的善意，  
+> Under Fuzhou Bridge, I took your bait for kindness.  
+> 
 > 我作了什麼?  
 > 我貼了張紙條，讓你們來找我  
+> I left a note.
+>
 > 我回應了民眾的善意。  
+> I responded to the perceived goodwill.
+<br>
 
 然後，你們作了什麼?  
 
@@ -523,27 +530,27 @@ As long as staying in Banqiao, there will always be next planting the blame, fra
 當你終於吃了，但身體太虛弱，且依然沒怎麼睡  
 當你在這種情況下，因餓太久    
 
-<span class=g23>在你臨吐之前，</span>   
-<span class=g22>有人跟你說了什麼，</span>  
-<span class=g15>你吐完，</span>  
-<span class=g10>你清理完穢物後，</span>  
-<span class=g4>你忘了這事。</span>  
-<span class=g8>這很罕見?</span>  
-<span class=g9>這在醫學上不常見?</span>  
-<span class=g24>這在現實中不常見?</span>  
-<span class=g20>然後，</span>  
-<span class=g19>你們一個又一個，</span>  
-<span class=g10>在趁人之危之後，</span>  
-<span class=g7>還繼續作了什麼?</span>  
-<span class=g14>到處作了什麼?</span>  
+<span class=g20>在你臨吐之前，</span>   
+<span class=g4>有人跟你說了什麼，</span>  
+<span class=g10>你吐完，</span>  
+<span class=g20>你清理完穢物後，</span>  
+<span class=g3>你忘了這事。</span>  
+<span class=g20>這很罕見?</span>  
+<span class=g20>這在醫學上不常見?</span>  
+<span class=g6>這在現實中不常見?</span>  
+<span class=g22>然後，</span>  
+<span class=g16>你們一個又一個，</span>  
+<span class=g6>在趁人之危之後，</span>  
+<span class=g15>還繼續作了什麼?</span>  
+<span class=g19>到處作了什麼?</span>  
 <span class=g18>到處跟著我去散佈謠言，</span>  
-<span class=g22>很有本事??</span>  
+<span class=g24>很有本事??</span>  
 
 不要忘了，  
 因為那大女兒的狀況，我決定寬容， 
 
-<span class=g16>我寬容的是那大女兒</span>  
-<span class=g21>不是你們這些指使大女兒的髒東西</span>  
+<span class=g9>我寬容的是那大女兒</span>  
+<span class=g4>不是你們這些指使大女兒的髒東西</span>  
 
 <strong class="rd">大女兒說得很明白</strong>
 
@@ -578,8 +585,8 @@ At a convenience store in Laomei, I consumed my own canned food while eating ins
 > 我等到一點十分，離開超商，在旁邊抽菸，才看見警察與這些髒東西一起過來。  
 > 當然，他們無視我。  
 > 
-> <span class=g4>沒發生過的事</span>  
-> <span class=g2>他們就是不可能有證據</span>  
+> <span class=g22>沒發生過的事</span>  
+> <span class=g11>他們就是不可能有證據</span>  
 Afterward, the attitude of staff always shifted wherever I appeared more than once.
 In Taichung, I learned from the convenience store clerks, they disseminated defamatory information about me before I had even arrived.
 <br>  
@@ -589,10 +596,10 @@ In Taichung, I learned from the convenience store clerks, they disseminated defa
 就能看見那裡的店員態度丕變。  
 在台中，    
 
-<span class=g16>從超商店員口中得知，</span>  
-<span class=g19>他們甚至還提早，</span>  
-<span class=g6>趕在我抵達超商之前</span>  
-<span class=g14>先去造謠。</span>  
+<span class=g22>從超商店員口中得知，</span>  
+<span class=g16>他們甚至還提早，</span>  
+<span class=g9>趕在我抵達超商之前</span>  
+<span class=g4>先去造謠。</span>  
 
 Objective Facts:
 
@@ -613,7 +620,7 @@ Rumors of this scale do not occur without a cause. Without systemic protection, 
 【 客觀事實 】：  
 > <strong class="rd">直到我出院後，回到板橋，看見超商店員拿起掛在脖子上的3c產品，在我看得見的地方，</strong>  
 > 
-> <span class=g17>照著念</span>  
+> <span class=g11>照著念</span>  
 > 
 > <strong class="xb">「超商慣竊出沒，請嚴加提防：</strong>  
 > 
@@ -625,15 +632,15 @@ Rumors of this scale do not occur without a cause. Without systemic protection, 
 
 <strong class="rd">
 
-<span class=g12>這些人全台全場緊迫盯人</span>  
-<span class=g17>他們很清楚我從沒偷過東西</span>  
-<span class=g23>但這些人就是這樣公然造謠。</span>  
+<span class=g20>這些人全台全場緊迫盯人</span>  
+<span class=g16>他們很清楚我從沒偷過東西</span>  
+<span class=g11>但這些人就是這樣公然造謠。</span>  
 
 在石門的超商，還有店員跑到我旁邊，用我聽得到的音量自言自語道：  
-<span class=g25>你怎麼還沒被警察抓走？</span>  
+<span class=g8>你怎麼還沒被警察抓走？</span>  
 原因一樣很單純</strong>
 
-<span class=g19>老梅那間超商的店員跑來串門子時造的謠。</span>    
+<span class=g4>老梅那間超商的店員跑來串門子時造的謠。</span>    
   
 這種賤事至今不曾改善。  
 所謂無風不起浪，  
@@ -651,7 +658,7 @@ He's warnning me.
 Because he has been told I am a habitual convenience store thief.
 <br>   
 
-<span class=g13>因為他被告知我是超商慣竊</span>  
+<span class=g3>因為他被告知我是超商慣竊</span>  
 
 <br>  
 
@@ -778,27 +785,27 @@ The strategic placement of patients in the ICU via fabricated justifications wil
 要求病患儘量躺低一點的指示與強硬要求。
 
 
-<span class=g20>事實證明，</span>  
+<span class=g25>事實證明，</span>  
 
-<span class=g10>我躺下不到五分鐘，</span>  
+<span class=g5>我躺下不到五分鐘，</span>  
 
-<span class=g3>就停止呼吸心跳了。</span>  
+<span class=g2>就停止呼吸心跳了。</span>  
 
-<span class=g19>但沒人為此負責。</span>  
+<span class=g17>但沒人為此負責。</span>  
 
-<span class=g0>在ICU的凌虐，</span>  
+<span class=g21>在ICU的凌虐，</span>  
 
-<span class=g7>身上傷痕累累，</span>  
+<span class=g0>身上傷痕累累，</span>  
 
-<span class=g12>也沒人為此負責。</span>  
+<span class=g13>也沒人為此負責。</span>  
 
-<span class=g24>在浮洲橋的構陷，</span>  
+<span class=g5>在浮洲橋的構陷，</span>  
 
-<span class=g21>也沒人為此負責。</span>  
+<span class=g16>也沒人為此負責。</span>  
 
-<span class=g11>新陳代謝科醫師不經照會在自行醫治心臟，</span>  
+<span class=g13>新陳代謝科醫師不經照會在自行醫治心臟，</span>  
 
-<span class=g21>也不必負責。</span>  
+<span class=g20>也不必負責。</span>  
 
 就因為我在疫情時與整個政府對立，   
 
@@ -826,15 +833,15 @@ The strategic placement of patients in the ICU via fabricated justifications wil
 從來沒人為任何一件事負過任何責任。  
 
 
-<span class=g4>當員警在幹著違背職務與違法的事，</span>  
+<span class=g3>當員警在幹著違背職務與違法的事，</span>  
 
-<span class=g9>當醫生在幹著違背倫理與法律的事，</span>  
+<span class=g24>當醫生在幹著違背倫理與法律的事，</span>  
 
-<span class=g21>當這整件事曾參與的人，</span>  
+<span class=g9>當這整件事曾參與的人，</span>  
 
-<span class=g15>人人濫權卻人人無責，</span>  
+<span class=g4>人人濫權卻人人無責，</span>  
 
-<span class=g14>因為沒人有後果，</span>  
+<span class=g2>因為沒人有後果，</span>  
 
 <span class=g4>北榮絕對不會是最後一次。</span>  
 
@@ -849,7 +856,7 @@ Therefore,
 I will now speak harshly.
 亞東的情況與高雄、北榮完全不同。
 
-<span class=g8>亞東是全然的不得已</span>  
+<span class=g4>亞東是全然的不得已</span>  
 
 所以，
 
@@ -922,23 +929,23 @@ centered on law enforcement.
 
 【 客觀事實 】：
 > <span class=g20>他們很清楚所謂慣竊是他們栽贓的</span>  
-> <span class=g11>但他們血口噴人噴到連自己都信了</span>  
-> <span class=g20>他們持續對著你設下一個又一個的偷竊便利局，</span>  
-> <span class=g24>還會對你擺出對慣竊衊視的姿態，</span>  
+> <span class=g22>但他們血口噴人噴到連自己都信了</span>  
+> <span class=g5>他們持續對著你設下一個又一個的偷竊便利局，</span>  
+> <span class=g17>還會對你擺出對慣竊衊視的姿態，</span>  
 >  
 
-<span class=g8>一個人也就算了，</span>  
-<span class=g14>當一群人集體自欺欺人至此，</span>  
-<span class=g10>當這群人都有共性與關聯，</span>  
-<span class=g24>當這些人持續在活躍，</span>  
+<span class=g18>一個人也就算了，</span>  
+<span class=g22>當一群人集體自欺欺人至此，</span>  
+<span class=g22>當這群人都有共性與關聯，</span>  
+<span class=g2>當這些人持續在活躍，</span>  
 
 當這些人持續在幹著出格的事，而且都很得意, 你只會收到一個強烈到無法抹去，無法無視的印象：  
 
 <br>
 
-<span class=g14>群體的扭曲。</span>  
-<span class=g6>扭曲的群體</span>  
-<span class=g9>以執法人員為骨幹</span>  
+<span class=g2>群體的扭曲。</span>  
+<span class=g24>扭曲的群體</span>  
+<span class=g23>以執法人員為骨幹</span>  
 
 <br>
 
@@ -994,18 +1001,18 @@ Please consider I do mention the current political climate.
 第二次報警，  
 <strong class="rd">我覺得有兩件事非常不對勁。</strong>  
 
-<span class=g17>一、動手打人的，</span>  
+<span class=g9>一、動手打人的，</span>  
 
-<span class=g20>居然可以站在警察後方兩步之處，</span>  
+<span class=g7>居然可以站在警察後方兩步之處，</span>  
 
-<span class=g7>全程監聽警察和被害人的對談。</span> 
+<span class=g16>全程監聽警察和被害人的對談。</span> 
  
 
-<span class=g22>二、警察明白告訴我，</span>  
+<span class=g9>二、警察明白告訴我，</span>  
 
-<span class=g20>這種傷我提告也沒用，</span>   
+<span class=g22>這種傷我提告也沒用，</span>   
 
-<span class=g23>就只會罰參伍佰塊。</span>  
+<span class=g24>就只會罰參伍佰塊。</span>  
 
 【 客觀事實 】：
 > 以上兩點，我不評價。  
@@ -1018,7 +1025,7 @@ Please consider I do mention the current political climate.
 為何我讓他一直動手?  
 為何我不還手?   
 
-<span class=g22>因為他七十幾歲了。</span>  
+<span class=g12>因為他七十幾歲了。</span>  
 
 這點我依然不評價。  
 看完全篇，大家自有公論。  
@@ -1089,9 +1096,9 @@ This is the fourth time.
 </strong>  
 <br> 
 
-<span class=g22>救護車的人員(消防隊)，</span>  
-<span class=g13>把我的行李拿下車。</span>  
-<span class=g23>所以我的手機，行動電源，證件，</span>  
+<span class=g3>救護車的人員(消防隊)，</span>  
+<span class=g15>把我的行李拿下車。</span>  
+<span class=g13>所以我的手機，行動電源，證件，</span>  
 <span class=g2>都被人拿走。</span>  
 
 我的行李是藍色，裡面東西比較雜。  
@@ -1115,8 +1122,8 @@ This is the fourth time.
 我也不知道生命垂危反覆昏倒機能瀕臨崩潰的傷患說錯顏色算不算罕見。  
 但我的證件確實在黑色背包裡。</strong>  
 
-<span class=g20>而我的黑色背包，一樣,</span>   
-<span class=g13>兩個都被丟包。</span>  
+<span class=g21>而我的黑色背包，一樣,</span>   
+<span class=g18>兩個都被丟包。</span>  
 
 如果你以為這是溝通問題，那麼，  
 <strong class="rd">我不知道專責業務人員跟反覆昏厥失血失溫的瀕死傷患計較溝通問題算是什麼道理。</strong>  
@@ -1282,7 +1289,7 @@ This is the fifth time.
 
 <strong class="rd">沒有後果，有人撐腰，</strong>  
 
-<span class=g20>他們是不會輕易放棄的</span>    
+<span class=g0>他們是不會輕易放棄的</span>    
 
 【 客觀事實 】：
 7月中旬的颱風假隔天,   
@@ -1378,7 +1385,7 @@ This is the fifth time.
 <strong class="rd">談到中期，兩個警察並排，肩並肩，同時面向我，  
 我和他們談了好一陣，我再三表示沒有追究的意願之後，結束談話之後，  
 
-<span class=g0>一轉身，發現對方站在我身後一步之處。</span>    
+<span class=g8>一轉身，發現對方站在我身後一步之處。</span>    
 
 <br>  
 原來，從第二位警察走過來並肩站開始，  
@@ -1470,7 +1477,7 @@ Ever thought about what does our kind of society imply?
 
 這種社會代表著什麼大家想過嗎?  
 
-<span class=g15>這篇文的寫作時序你們很清楚</span>    
+<span class=g8>這篇文的寫作時序你們很清楚</span>    
 
 10/25 早上六點依然在超商造謠的警方，  
 
@@ -1511,10 +1518,10 @@ Was neighbor's guess closer?
 <strong class="rd">再來一次的話，  
 我會不會作同樣的事?    
 
-<span class=g13>會。</span>  
+<span class=g14>會。</span>  
 
 無政治裙帶平民無差別級被放著等死這種事,   
-<span class=g24>我依然會咆嘯。</span>  
+<span class=g21>我依然會咆嘯。</span>  
 
 但我會充分考慮我的承擔與付出有多少是髒成這樣的東西在享用。</strong>  
 

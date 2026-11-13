@@ -1,4 +1,4 @@
-預記下次更新：11/9 
+預記下次更新：11/16 
 
 # 認真的
 <font size="5"><b>Seriously.</b></font>
@@ -204,8 +204,9 @@ It is all the same.
 只要他們想  
 As long as they desire it,   
 
-<span class="g">想下海?<br>
-"Want her in the trade?"</span>  
+<span class="g">想下海?</span>    
+
+<span class="g">"Want her in the trade?"</span>  
 
 <strong>Everything is permitted.</strong>
 <!-- #endregion -->
@@ -215,6 +216,7 @@ As long as they desire it,
 <p class="eh3">Digital Panopticon / Targeted total surveillance</p>
 <br>
 
+<!-- #region 監控 -->
 【 客觀事實 】：
 The cold fact.
 
@@ -341,13 +343,14 @@ But I know,
 > <span class="g">又都堅持著，到處幹著些什麼</span>  
 <span class="g">While posturing in your official capacities, what filth and illegal atrocities do you persistently spread everywhere?</span>  
 <br>   
-
+<!-- #endregion -->
 </strong><br>  
 
 ### 恐嚇
 <p class="eh3">intimidation</p>
 <br>  
 
+<!-- #region 恐嚇 -->
 眾所皆知，  
 As is universally known,  
 
@@ -361,7 +364,7 @@ aside from the surveillance, aside from the literal
  <strong class="xb">lethal menace and murderous intent,</strong>   
 
 <strong class="xb">肅殺至極</strong>的,    
-<strong class="xb">utterly chilling,</strong>,   
+<strong class="xb">utterly chilling,</strong>   
 
 還有居家的即時嗆聲與  
 there were also real time threats at my home,  
@@ -414,12 +417,13 @@ compounded by
 你該怎麼辦?  
 what are you supposed to do?  
 <br>  
-
+<!-- #endregion -->
 
 ### 自保
 <p class="eh3">Thwart </p>
 <br>
 
+<!-- #region 自保 -->
 不要忘了，  
 Do not forget.  
 
@@ -465,6 +469,7 @@ What's your last ditch?
 
 <br>
 
+<!-- #endregion -->
 
 ## 流浪
 <p class="eh2">Drift</p>
@@ -474,44 +479,10 @@ What's your last ditch?
 <p class="eh3">The Setup</p>
 <br>
 
-
-
-
-
-
-Subsequently, what did you do?
-
-Spend forty-eight hours of deprivation: no food, no water, minimal sleep.
-Be fed, but in a state of exhaustion and sleep deprivation.
-Prolonged hunger.
-
-Right before your emesis, someone spoke something to you.
-After cleaning the filth, You forgot had someone spoke to you before.
-
-Is this rare?
-Medically uncommon?
-Unrealistic?
-
-Then, taking advantage of the situation, what did you do?
-What did you do around me?
-
-Following me everywhere to spread rumors. 
-You consider that an achievement?
-
-Do not forget.
-I was lenient due to the eldest daughter's situation.
-
-I was lenient to the daughter,
-not the filth ordering her.
-
-The daughter stated explicitly:
-The police ordered her to do that.
-
-The most important thing I have been forced to learn these years:
-As long as staying in Banqiao, there will always be next planting the blame, framing, and setup
+<!-- #region 構陷 -->
 
 【 客觀事實 】：
-Objective Facts
+Objective Facts:
 
 > 當我在浮洲橋下，第一次，我將你們的餌，當成民眾的善意，  
 > Under Fuzhou Bridge, I took your bait for kindness.  
@@ -525,218 +496,366 @@ Objective Facts
 <br>
 
 然後，你們作了什麼?  
+Subsequently, what did you do?  
 
 <strong class="rd">當你這輩子第一次48小時沒吃沒喝沒怎麼睡</strong>  
+<strong class="rd">Spend forty-eight hours of deprivation: no food, no water, minimal sleep.  </strong>  
+
 當你終於吃了，但身體太虛弱，且依然沒怎麼睡  
+Be fed, but in a state of exhaustion and sleep deprivation.  
+
 當你在這種情況下，因餓太久    
+Prolonged hunger.
+<br>  
 
 <span class="g">在你臨吐之前，</span>   
+<span class="g">Right before your emesis,</span>  
+<br>  
+
 <span class="g">有人跟你說了什麼，</span>  
+<span class="g">someone spoke something to you.</span>  
+<br>  
+
 <span class="g">你吐完，</span>  
 <span class="g">你清理完穢物後，</span>  
+<span class="g">After cleaning the filth, </span>  
+<br>  
+
 <span class="g">你忘了這事。</span>  
+<span class="g">You forgot had someone spoke to you before.</span>  
+<br>  
+
 <span class="g">這很罕見?</span>  
+<span class="g">Is this rare?</span>  
+<br>  
+
 <span class="g">這在醫學上不常見?</span>  
+<span class="g">Medically uncommon?</span>  
+<br>  
+
 <span class="g">這在現實中不常見?</span>  
+<span class="g">Unrealistic?</span>  
+<br>  
+
 <span class="g">然後，</span>  
+<span class="g">Then, </span>  
+<br>  
+
 <span class="g">你們一個又一個，</span>  
+<span class="g">each of you,</span>  
+<br>  
+
 <span class="g">在趁人之危之後，</span>  
+<span class="g">taking advantage of the situation, </span>  
+<br>  
+
 <span class="g">還繼續作了什麼?</span>  
+<span class="g">what did you do?</span>  
+<br>  
+
 <span class="g">到處作了什麼?</span>  
+<span class="g">What did you do around me?</span>  
+<br>  
+
 <span class="g">到處跟著我去散佈謠言，</span>  
+<span class="g">Following me everywhere to spread rumors. </span>  
+<br>  
+
 <span class="g">很有本事??</span>  
-
-不要忘了，  
-因為那大女兒的狀況，我決定寬容， 
-
-<span class="g">我寬容的是那大女兒</span>  
-<span class="g">不是你們這些指使大女兒的髒東西</span>  
-
-<strong class="rd">大女兒說得很明白</strong>
-
-<strong class="xb">是警察要她這麼作的</strong>  
-
-這些年，我被迫學會的，最重要的事，是：  
-<strong class="rd">只要在板橋，就是會一直有嫁禍、栽贓、構陷</strong>  
+<span class="g">You consider that an achievement?</span>  
 <br>  
 
 
+不要忘了，  
+Do not forget.  
+
+因為那大女兒的狀況，我決定寬容，
+I was lenient due to the eldest daughter's situation.  
+
+<span class="g">我寬容的是那大女兒</span>  
+<span class="g">I was lenient to the daughter,</span>  
+<br>  
+
+<span class="g">不是你們這些指使大女兒的髒東西</span>  
+<span class="g">not the filth ordering her.</span>  
+<br>  
+
+
+<strong class="rd">大女兒說得很明白</strong>
+<strong class="rd">The daughter stated explicitly:</strong>
+<br>  
+
+<strong class="xb">是警察要她這麼作的</strong>  
+<strong class="xb">The police ordered her to do that.</strong>  
+<br>  
+
+這些年，我被迫學會的，最重要的事，是：  
+The most important thing I have been forced to learn these years:  
+
+<strong class="rd">只要在板橋，就是會一直有嫁禍、栽贓、構陷</strong>  
+<strong class="rd">As long as staying in Banqiao, there will always be next planting the blame, framing, and setup</strong>
+<br>  
+<!-- #endregion -->
+
 ## 更正式的栽贓
-Institutionalized Defamation
+<p class="eh2">Institutionalized Defamation</p>  
+<br>  
 
-My departure was a response to relentless harassment. A campaign of misinformation extended from Jinguashi to Shimen and Sanzhi, reaching a turning point of institutionalization in Shimen. The origin was not merely simple but absurd, was not merely absurd but a reflection of the current state of New Taipei City.
+<!-- #region 更正式的栽贓 -->
+
+ 
 我離開，是因為我覺得這些髒東西，這些髒事實在煩不勝煩。  
+My departure was a response to relentless harassment.   
+
 從金瓜石一路跟著造謠到石門、三芝，這些就不說了。  
+A campaign of misinformation extended from Jinguashi to Shimen and Sanzhi,   
+
 這些人覺得他們可以把造謠玩成官方正式謠言的轉捩點，在石門。  
+reaching a turning point of institutionalization in Shimen. 
+
 起因，  
+The origin  
+
 <strong class="rd">與其說單純，不如說荒謬。  
+was not merely simple but absurd,  
+
 與其而荒謬，不如說，  
-這就是這些人的新北。</strong>  
+was not merely absurd  
 
+這就是這些人的新北。  
+but a reflection of the current state of New Taipei City.</strong>  
 
-Objective Facts:
+<br>  
 
-At a convenience store in Laomei, I consumed my own canned food while eating instant noodles. Therefore, the store reported me for theft. I told them I will would wait until 01:00 when it was about 00:00. The authorities and the store owner arrived until 01:10 when I was smoking at the next door of the convenience store, in the middle of nowhere. They ignored me of course. It's simply impossible for them to produce evidence for a theft that ever occurred.
 
 【 客觀事實 】：
+Objective Facts:  
+
 > 我在老梅的統一超商吃泡麵，從背包中拿出自備的罐頭，也就是所謂的外食，所以超商報警，說我偷竊。  
+> At a convenience store in Laomei, I consumed my own canned food while eating instant noodles. Therefore, the store reported me for theft.  
+>
 > 我在半夜快十二點時，對這些東西說  
 > 我等你們到一點。  
+> I told them I will would wait until 01:00 when it was about 00:00.  
+>
 > 我等到一點十分，離開超商，在旁邊抽菸，才看見警察與這些髒東西一起過來。  
+> The authorities and the store owner arrived until 01:10 when I was smoking at the next door of the convenience store, in the middle of nowhere.  
+>
 > 當然，他們無視我。  
-> 
+> They ignored me of course.  
+> <br>  
+>
 > <span class="g">沒發生過的事</span>  
 > <span class="g">他們就是不可能有證據</span>  
-Afterward, the attitude of staff always shifted wherever I appeared more than once.
-In Taichung, I learned from the convenience store clerks, they disseminated defamatory information about me before I had even arrived.
+> <span class="g">It's simply impossible for them to produce evidence for a theft that ever occurred.</span>  
+<br>  
 <br>  
 
 此後，無論我到哪裡，  
 只要重複出現在同一場合，  
 就能看見那裡的店員態度丕變。  
+Afterward, the attitude of staff always shifted wherever I appeared more than once.  
+
 在台中，    
+In Taichung,   
+<br>  
 
 <span class="g">從超商店員口中得知，</span>  
+<span class="g">I learned from the convenience store clerks,</span>  
+<br>  
+
 <span class="g">他們甚至還提早，</span>  
 <span class="g">趕在我抵達超商之前</span>  
 <span class="g">先去造謠。</span>  
+<span class="g">they disseminated defamatory information about me before I had even arrived.</span>  
+<br>  
+<br>  
 
-Objective Facts:
-
-In Banqiao, after hospitalization, I observed an convenience store employee reading from a device in the plain view: "Warning: Habitual convenience store thief." The phrase was delivered slowly and loudly to ensure it was heard.
-
-The term "habitual thief" was too clear to be mistakable. 
-
-They tailed and surveilled me everywhere I go, 
-They know I have never stolen. 
-They disseminated their lies anyway.
-
-In Shimen, a clerk even walk beside my seat and whisper with the voice I can here very clearly: why haven't you been arrested yet? 
-
-This occurred after a visit from the clerk of the Laomei store.
-It never stop. They have protection.
-
-Rumors of this scale do not occur without a cause. Without systemic protection, they would not dare to defame so brazenly and frame and setup so arrogantly.
 【 客觀事實 】：  
+Objective Facts:  
+
 > <strong class="rd">直到我出院後，回到板橋，看見超商店員拿起掛在脖子上的3c產品，在我看得見的地方，</strong>  
-> 
-> <span class="g">照著念</span>  
-> 
+> <br>  
+>
+> <span class="g">照著念</span>    
+> <br>  
+
+> <strong class="rd">In Banqiao, after hospitalization, I observed an convenience store employee reading from a device in the plain view: </strong>   
+> <br>  
+>
 > <strong class="xb">「超商慣竊出沒，請嚴加提防：</strong>  
-> 
+> <strong class="xb">"Warning: Habitual convenience store thief." </strong>  
 >
 > 詳細用詞我忘了，大意如此。  
 > 但<strong class="rd">超商慣竊</strong>這四個字我記得很清楚。  
+> The phrase was delivered slowly and loudly to ensure it was heard.  
+> The term "habitual thief" was too clear to be mistakable.   
 
 <br>    
 
 <strong class="rd">
 
 <span class="g">這些人全台全場緊迫盯人</span>  
+<span class="g">They tailed and surveilled me everywhere I go, </span>  
+<br>  
+
 <span class="g">他們很清楚我從沒偷過東西</span>  
+<span class="g">They know I have never stolen. </span>  
+<br>  
+
 <span class="g">但這些人就是這樣公然造謠。</span>  
+<span class="g">They disseminated their lies anyway.</span>  
+<br>  
+<br>  
+
 
 在石門的超商，還有店員跑到我旁邊，用我聽得到的音量自言自語道：  
+In Shimen, the clerk even walk beside my seat and whisper with the voice I can here very clearly:   
+<br>  
+
 <span class="g">你怎麼還沒被警察抓走？</span>  
+<span class="g">why haven't you been arrested yet? </span>  
+<br>  
+<br>  
+
 原因一樣很單純</strong>
 
 <span class="g">老梅那間超商的店員跑來串門子時造的謠。</span>    
-  
+<span class="g">This occurred after a visit from the clerk of the Laomei store.</span>  
+<br>  
+
 這種賤事至今不曾改善。  
+It never stop. They have protection.  
+
 所謂無風不起浪，  
+Rumors of this scale do not occur without a cause.  
+
 沒人撐腰，這些人絕對不敢這麼囂張的造謠。   
+Without systemic protection, they would not dare to defame so brazenly and frame and setup so arrogantly.  
 
 <br>
 
 【 客觀事實 】：
-> 板橋陽明班大夜班店員一見我，就會用力咳嗽，很假的那種。  
-> <strong class="rd"> 他在警告。</strong>  
+Objective Fact:  
 
-Objective Fact:
-At the Banqiao Yangming branch, a night-shift employee always give me a super fake, loud, and hard cough when he saw me in the convenience store alone.
-He's warnning me.
-Because he has been told I am a habitual convenience store thief.
+> 板橋陽明班大夜班店員一看見店裡只有我，就會用力咳嗽，很假的那種。  
+> At the Banqiao Yangming branch, a night-shift employee always give me a super fake, loud, and hard cough when he saw me in the convenience store alone.  
+>
+> <strong class="rd"> 他在警告。</strong>  
+> <strong class="rd">He's warnning me.</strong>  
+
 <br>   
 
 <span class="g">因為他被告知我是超商慣竊</span>  
+<span class="g">Because he has been told I am a habitual convenience store thief.</span>  
+<br>  
 
 <br>  
 
 數月前不曾如此， 
+It wasn't like this months ago.    
+
 這代表這些髒東西現在仍在造謠。  
-It wasn't like this months ago. 
-It proves the filth are still disseminating their fabricated stories.
+It proves the filth are still disseminating their fabricated stories.   
 
-It's understandable.
-For those capable of orchestrating framing, shifting blame, and setup,
-for those capable of exploiting mentally fragile women,
-spreading rumors and lies means nothing to them.
-
-I thought this stemmed from my criticism of the police during the Taoyuan Hulk incident.
-
-I was wrong.
-
-They fit this society,
-this state of world,
-and this political landscape.
-They just do not fit their uniforms.
-
-Or perhaps, actually,
-in this country, 
-this is called "fit the true qualification of their uniform.
 
 <strong class="rd"> 也是。  
+It's understandable.  
+
 連設計害人的事都幹得出來了，  
+For those capable of orchestrating framing, shifting blame, and setup,  
+
 連精神狀態不佳的女子都在指使了，  
+for those capable of exploiting mentally fragile women,  
+
 這種造謠，對這些人來說，  
-算什麼?  </strong>  
+算什麼?  
+spreading rumors and lies means nothing to them.</strong>  
 
 原本我百思不得其解，還以為這些人就只因為我在桃園浩克事件時，曾很堅定的寫下指責當時員警的文字。  
+I thought this stemmed from my criticism of the police during the Taoyuan Hulk incident.  
 
 後來才發現，  
 不，  
+I was wrong.  
 
 這些人，就只是單純的，  
+They simply 
+
 配得上這社會，  
+fit this society,   
+
 配得上這世道，  
+fit this state of world,  
+
 配得上這政局，  
+fit this political landscape.  
+
 卻配不上他們的制服而已。  
+They just do not fit their uniform.  
 
 又或許，其實，  
+Or perhaps, actually,  
+
 在這國家，  
+in this country,   
 
 這才叫配得上身份。  
+this is called "fit the true qualification of their uniform.
+<br>  
+<br>  
+
+<!-- #endregion -->  
+
+## 高雄
+<p class="eh3">Kaohsiung</p>  
 <br>  
   
 
-## 高雄
-Kaohsiung 
 
-With my physical condition nearing collapse, I retreated to a relative's house, at least to be able to sleep for several days.
 
-Of course,
-At Kaohsiung Station, they shown themself as always to let you know the surveillance remains absolute.
 
-The absurdity of Kaohsiung's hospitals is negligible compared to my recent years. They are competent.
 
-If you've had bad experiences with major hospitals in Kaohsiung,
-in all fairness, 
-they are restraint.
-And he general public can't imagine how rare this kind of restraint is.
+
+
+
+
+
+ 
 當我身體狀況越來越差，幾乎到了難以為繼的程度時，我決定到親戚家休整幾天。至少，能夠睡幾天。  
+With my physical condition nearing collapse, I retreated to a relative's house, at least to be able to sleep for several days.  
 
 當然，  
+Of course,  
+
 當你到了高雄的車站，這些人會讓你知道，  
+At Kaohsiung Station, they shown themself as always to let you know  
+
 他們依然在全場緊迫盯人。  
+the surveillance remains absolute.  
+<br>  
 
 在我這幾年的生活中，高雄醫院的荒謬程度實在太微不足道。相較之下，他們完全稱得上稱職。  
-如果你對高雄知名大型醫院的印象不佳，  
+The absurdity of Kaohsiung's hospitals is negligible compared to my recent years. They are competent.  
+
+如果你對高雄知名大型醫院的印象不佳，   
+If you've had bad experiences with major hospitals in Kaohsiung,  
+
 我必需說公道話，  
+in all fairness,   
+
 真的，他們算是非常有分寸了。  
-<strong class="rd"> 你沒有辦法想像，</strong>  
+they are restraint.  
+
+<strong class="rd"> 你沒有辦法想像，</strong>    
+<strong class="rd">The general public can't imagine</strong>  
+
 這種分寸到底有多難得。  
+how rare this kind of restraint is.  
 <br>
-  
+<br>  
+
+<!-- #endregion -->
 
 ## 北榮
 Taipei Veterans General Hospital
