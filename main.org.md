@@ -1117,11 +1117,6 @@ active group performing acts divorced from reality with confidence will sear a p
 
 <!-- #region 板捷 -->
 
-
-
-
-
-
 【 客觀事實 】：
 Objective Fact:  
 
@@ -1221,26 +1216,20 @@ not just matter of opinion.
 <br>
 
 不要忘了，我提過，政局如此。  
-<br>
-
 Please consider I do mention the current political climate.
+<br>
 
 <!-- #endregion -->  
 <br>  
 
-### 第四次
+## 第四次
 <p class="eh2">Fourth Instance</p>  
 <br>  
 
 <!-- #region 第四次 -->
 
 
-Objective Fact:
-While conscious, I witnessed 
 
-
-
-This is the fourth time.  
 
 去年年底我試過，  
 Final days of last year, I attempted to leave.  
@@ -1252,10 +1241,10 @@ I was found by themaintenance staff of the High Riverbank Construction Managemen
 我不只放血，還放溫。  
 氣溫11度放血還穿短袖淋雨，   
 被發現時，我已經淋了四小時的雨。   
-Temperature: 11°C.  
-Attire: short sleeves.  
-Exposure: four hours of rain.  
-Condition: significant blood loss and hypothermia.  
+**Temperature**: 11°C.  
+**Attire**: short sleeves.  
+**Exposure**: four hours of rain.  
+**Condition**: significant blood loss and hypothermia.  
 
 只不過，  
 However,
@@ -1273,7 +1262,7 @@ Very coincidentally, I saw what I was meant to see.
 Objective Fact:  
 
 > 當我在救護車上被叫醒，警察問我有無證件，  
-> I was woked up on the ambulance, Police inquired about identification.
+> I was woked up on the ambulance, Police inquired about my identification.
 > 
 > 我說，在黑色大袋子裡。   
 > I stated it was in the big black bag.  
@@ -1294,7 +1283,7 @@ Objective Fact:
 <br>  
 
 <span class="g">救護車的人員，</span>  
-<span class="g">the paramedics</span>  
+<span class="g">the paramedics(amulance driver)</span>  
 <br>  
 
 <span class="g">把我的行李拿下車。</span>  
@@ -1302,13 +1291,28 @@ Objective Fact:
 <br>  
 
 <span class="g">出院後，我在原地找到所有的行李，</span>  
-<span class="g">After discharge, I found all the luggage at where I was found.</span>  
-<br>  
-
+<span class="g">After discharge, I found all the luggage where I was discovered.</span>  
 <br>  
 
 <span class="g">除了我的手機，行動電源，證件，</span>  
+<span class="g">while my phone, power bank, and two forms of identification,</span>  
+<br>  
+
 <span class="g">都被人拿走。</span>  
+<span class="g">were taken. </span>  
+<br>  
+
+<span class="g">行李裡的所有都被翻出來，扔在地上，</span>  
+<span class="g">Everything in my luggage had been pulled out and scattered across the ground.</span>  
+<br>  
+
+<span class="g">出院前下了好幾天的雨，</span>  
+<span class="g">It had been raining for several days before my discharge.</span>  
+<br>  
+
+<span class="g">地上的筆記本只有最上面三頁是濕的</span>  
+<span class="g">Of the notebook strewn on the ground, only the top three were wet.</span>  
+<br>  
 
 我的行李是藍色，裡面東西比較雜。  
 黑色大背包如果不是在藍色行李裡面，  
@@ -1318,41 +1322,56 @@ Objective Fact:
 黑色大後背包也是，  
 黑色大側背包也是，藍色行李袋也是。  
 
+The luggage consisted of a blue bag and two black bags (a big backpack and a shoulder bag). 
 <br>   
-  Post hospital, I recover all my luggage but my phone, power bank, and two forms of identification.
-
-The luggage consisted of a blue bag and two black bags (a big backpack and a shoulder bag). My two forms of identification were in the black shoulder bag, All were discarded.
-
-Mentioned or not, no attempt was made to check the contents for any bag. The police witnessed the disposal and remained silent.
-
-The belongings of a patient in critical condition in the suburbs were treated as disposable waste. 
-
-If my semi conscious state and subsequent confusion are being categorized as a "communication error," I find it impossible to see how the police or paramedic can justify that classification given the circumstances.
-
-If not, I find it even more unjustifiable that the police or paramedics removed my belongings from the ambulance.
-
-Again, my two forms of identification were in the black shoulder bag.
-
-By the way, the paramedic was from the New Taipei City Fire Department.
 
 他們甚至沒試著打開來看裡面有沒有黑色袋子。  
+They don't even check the contents for any bag.
+
 而警察目睹他丟包我的行李，  
+The police witnessed the disposal,
 
 至少在我醒著時看見如此，  
+I saw it,
+
 警方什麼也沒說。  
+the police remained silent.
+
 <br>
 <strong class="rd">我不知道在郊外傷患旁唯一的行李是能先拿上車再丟包的。  
+I am unsure if the protocol for dying patients in rural areas is to load luggage only to discard it later.
+
 我也不知道生命垂危反覆昏倒機能瀕臨崩潰的傷患說錯顏色算不算罕見。  
-但我的證件確實在黑色背包裡。</strong>  
+I am also unsure if it is considered rare for a patient in critical condition, repeatedly losing consciousness, to misidentify a color or a location of beloging.   
+
+但我的證件確實在黑色背包裡。  
+My identification was indeed in the black shoulder pack.  
+
+</strong>  
 
 <span class="g">而我的黑色背包，一樣,</span>   
-<span class="g">兩個都被丟包。</span>  
+That shoulder pack, along with the other black luggage,   
 
-如果你以為這是溝通問題，那麼，  
-<strong class="rd">我不知道專責業務人員跟反覆昏厥失血失溫的瀕死傷患計較溝通問題算是什麼道理。</strong>  
+<span class="g">兩個都被丟包。</span>  
+were discarded.  
+
+
+如果你以為這是溝通問題，那麼，<strong class="rd">我不知道專責業務人員跟反覆昏厥失血失溫的瀕死傷患計較溝通問題算是什麼道理。</strong>  
+If my semi conscious and dying state and subsequent confusion are being categorized as a "communication error," I find it impossible to see how the police or paramedic can justify that classification given the circumstances.
+
+如果不是溝通問題，我更不懂把我的行李扔出救護車能有什麼正當性。
+If not, I find it even more unjustifiable that the police or paramedic removed my belongings from the ambulance.
+
+我再重覆一次，我的雙證件是在黑色側背包裡。
+Again, my two forms of identification were in the black shoulder bag.
+
+對了，開救護車的，是新北市消防隊的。
+By the way, the paramedic was from the New Taipei City Fire Department.
+
 
 
 這是第四次。  
+This is the fourth instance.  
 <br>
 
 
