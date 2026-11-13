@@ -218,103 +218,130 @@ As long as they desire it,
 【 客觀事實 】：
 The cold fact.
 > 從疫情時開始
+> Since the COVID-19 pandemic,
 > <span class="g">持續到現在。</span>  
->
+> persistent, uninterrupted, ongoing surveillance and dissemination is sustained, even now.
 > <span class="g">我在電子設備裡輸入的「每一個字」，</span>  
->
+> Every single words I type, 
 > <span class="g">我的私人筆記，</span>  
->
+> each of my personal notes,
 > <span class="g">我的私人寫作，</span>  
->
+> all my persional writings,
 > <span class="g">我的私人通訊，</span>  
->
+> all my private conversations and communications, 
 > <span class="g">而且是雙向散佈，</span>  
->
+> Is disseminated bidirectionally,
 > <span class="g">我的私人數位內容，</span>  
->
+> All my private digital info and ontent,
 > <span class="g">我的物理位置，</span>  
->
+> my each and every location,  
 > <span class="g">我的舉止與言論</span>  
->
+> all my actions and words, 
 > <span class="g">全部都會被散佈</span>  
+> is dissemiated. 
 > <br> 
 >
 > <span class="g">甚至是跨國散佈</span>  
-
+even transnationally.
 <br>
 
 <strong class="rd">所有經手人，  
-
+Reguardless everyone who had accessed my private info and content,
 所有公職在身的經手人，  
+each and every public servant, 
 所有帶有司法性質的經手人  
-所有帶有國利性質的經手人  
+each and every law related one,
+所有帶有國安性質的經手人  
+each and every national security handler,
 所有帶有政治性質的經手人  
-
+each and every political figures, L
 甚至是平民經手人  
-
+even the civilians, 
 我不知道是否有誰，曾經有過異議  
-
+I don't know if anyone has ever submitted any differing opinions.  
 我只知道   </strong>  
-
+But I know, 
 <span class="g">從疫情到現在</span>   
-
+Since the COVID-19 pandemic, 
 <span class="g">監控與散佈這件事</span>   
-
+the surveillance and disseminations, 
 <span class="g">從來不曾被阻止</span>    
-
+never stopped, 
 <span class="g">從來不曾被改變</span>    
-
+never changed.  
 
 【 客觀事實 】：
 > <strong class="rd">沒人比你們更清楚，無論有多艱難  
->
+> Of all people, you know this best. No matter how hard it is,
 > <span class="g">我是什麼身份</span>  
->
+> who I am and what I am, 
 > <span class="g">我作過什麼</span>  
->
+> what I have done, 
 > <span class="g">我沒作過什麼</span>  
->
+> what I have never done, 
 > <span class="g">我堅守著什麼</span>  
->
+> and what I hold like oathㄋ.
 > <span class="g">你們一個個、一群群又是什麼身份</span>  
-> 
+> Each and every one of you, what authority or office do you even claim?
 > <span class="g">你們一個個，一群群，</span>  
+Each and every one of you,  
 > <span class="g">又都堅持著，到處幹著些什麼</span>  
-
+While posturing in your official capacities, what filth and illegal atrocities do you persistently spread everywhere?
 </strong><br>  
 
 ### 恐嚇
 
 眾所皆知，
+As is universally known,
 疫情時與疫情後，  
+during and after the pandemic，
 除了監控，除了完全符合字面意義的  
+aside from the surveillance, aside from the literal,
 <strong class="xb">殺氣騰騰</strong>的，  
 <strong class="xb">肅殺至極</strong>的,   
+stern and chill,
 還有居家的即時嗆聲與  
-
+there were also real time threats at my home,
 <span class="g">一波又一波的</span>  
+wave upon wave of 
 <span class="g">黑色恐嚇</span>  
+black terror.
 
 請問，   
+Tell me, 
 當你是一個身家清白，背景乾淨單純的   
 普通民眾。  
+when you are an ordinary citizen 
+with an impeccably clean record and a completely untainted background, 
 
 <span class="g">正因為，就因為</span>  
+precisely because, simply because 
 <span class="g">你是身家清白，背景乾淨單純的</span>  
+you are an ordinary citizen 
 <span class="g">普通民眾</span>  
 
+with an impeccably clean record and a completely untainted background,
 面對黑白兩邊，與來自於情治單位的肅殺與恐嚇，  
 以及  
+compounded by 
 
+facing the yielding hostility, stern and intimidation from both the underworld and the authorities, plus the state security apparatus,
+unmasked collusion between officials and criminals, 
 <span class="g">絲毫不掩飾</span>  
 <span class="g">明擺著的黑白勾結</span>  
 你該怎麼辦?
-
+what are you supposed to do?
 <br>  
 
 
 ### 自保
-
+Do not forget.
+There were organ harvesting advertisements tracking you online.
+Correct. Advertisements.
+Their deployment. Their arrangement. Their organization.
+What is your recourse?
+Aside from trying not to fall into their hands.
+What can you do?
 不要忘了，  
 當時還有，   
 <strong class="rd">在網路上到處緊跟著你的  </strong>
@@ -337,6 +364,43 @@ The cold fact.
 ## 流浪
 
 ### 構陷
+The Setup.
+
+[Objective Facts]
+Under Fuzhou Bridge, I took your bait for kindness.
+I left a note.
+I responded to the perceived goodwill.
+
+Subsequently, what did you do?
+
+Spend forty-eight hours of deprivation: no food, no water, minimal sleep.
+Be fed, but in a state of exhaustion and sleep deprivation.
+Prolonged hunger.
+
+Right before your emesis, someone spoke something to you.
+After cleaning the filth, You forgot had someone spoke to you before.
+
+Is this rare?
+Medically uncommon?
+Unrealistic?
+
+Then, taking advantage of the situation, what did you do?
+What did you do around me?
+
+Following me everywhere to spread rumors. 
+You consider that an achievement?
+
+Do not forget.
+I was lenient due to the eldest daughter's situation.
+
+I was lenient to the daughter,
+not the filth ordering her.
+
+The daughter stated explicitly:
+The police ordered her to do that.
+
+The most important thing I have been forced to learn these years:
+As long as staying in Banqiao, there will always be next planting the blame, framing, and setup
 
 【 客觀事實 】：
 > 當我在浮洲橋下，第一次，我將你們的餌，當成民眾的善意，  
@@ -382,7 +446,9 @@ The cold fact.
 
 
 ## 更正式的栽贓
+Institutionalized Defamation
 
+My departure was a response to relentless harassment. A campaign of misinformation extended from Jinguashi to Shimen and Sanzhi, reaching a turning point of institutionalization in Shimen. The origin was not merely simple but absurd, was not merely absurd but a reflection of the current state of New Taipei City.
 我離開，是因為我覺得這些髒東西，這些髒事實在煩不勝煩。  
 從金瓜石一路跟著造謠到石門、三芝，這些就不說了。  
 這些人覺得他們可以把造謠玩成官方正式謠言的轉捩點，在石門。  
@@ -390,6 +456,11 @@ The cold fact.
 <strong class="rd">與其說單純，不如說荒謬。  
 與其而荒謬，不如說，  
 這就是這些人的新北。</strong>  
+
+
+Objective Facts:
+
+At a convenience store in Laomei, I consumed my own canned food while eating instant noodles. Therefore, the store reported me for theft. I told them I will would wait until 01:00 when it was about 00:00. The authorities and the store owner arrived until 01:10 when I was smoking at the next door of the convenience store, in the middle of nowhere. They ignored me of course. It's simply impossible for them to produce evidence for a theft that ever occurred.
 
 【 客觀事實 】：
 > 我在老梅的統一超商吃泡麵，從背包中拿出自備的罐頭，也就是所謂的外食，所以超商報警，說我偷竊。  
@@ -400,7 +471,8 @@ The cold fact.
 > 
 > <span class="g">沒發生過的事</span>  
 > <span class="g">他們就是不可能有證據</span>  
-
+Afterward, the attitude of staff always shifted wherever I appeared more than once.
+In Taichung, I learned from the convenience store clerks, they disseminated defamatory information about me before I had even arrived.
 <br>  
 
 此後，無論我到哪裡，  
@@ -413,6 +485,22 @@ The cold fact.
 <span class="g">趕在我抵達超商之前</span>  
 <span class="g">先去造謠。</span>  
 
+Objective Facts:
+
+In Banqiao, after hospitalization, I observed an convenience store employee reading from a device in the plain view: "Warning: Habitual convenience store thief." The phrase was delivered slowly and loudly to ensure it was heard.
+
+The term "habitual thief" was too clear to be mistakable. 
+
+They tailed and surveilled me everywhere I go, 
+They know I have never stolen. 
+They disseminated their lies anyway.
+
+In Shimen, a clerk even walk beside my seat and whisper with the voice I can here very clearly: why haven't you been arrested yet? 
+
+This occurred after a visit from the clerk of the Laomei store.
+It never stop. They have protection.
+
+Rumors of this scale do not occur without a cause. Without systemic protection, they would not dare to defame so brazenly and frame and setup so arrogantly.
 【 客觀事實 】：  
 > <strong class="rd">直到我出院後，回到板橋，看見超商店員拿起掛在脖子上的3c產品，在我看得見的地方，</strong>  
 > 
@@ -448,6 +536,10 @@ The cold fact.
 > 板橋陽明班大夜班店員一見我，就會用力咳嗽，很假的那種。  
 > <strong class="rd"> 他在警告。</strong>  
 
+Objective Fact:
+At the Banqiao Yangming branch, a night-shift employee always give me a super fake, loud, and hard cough when he saw me in the convenience store alone.
+He's warnning me.
+Because he has been told I am a habitual convenience store thief.
 <br>   
 
 <span class="g">因為他被告知我是超商慣竊</span>  
@@ -456,6 +548,26 @@ The cold fact.
 
 數月前不曾如此， 
 這代表這些髒東西現在仍在造謠。  
+It wasn't like this months ago. 
+It proves the filth are still disseminating their fabricated stories.
+
+It's understandable.
+For those capable of orchestrating framing, shifting blame, and setup,
+for those capable of exploiting mentally fragile women,
+spreading rumors and lies means nothing to them.
+
+I thought this stemmed from my criticism of the police during the Taoyuan Hulk incident.
+
+I was wrong.
+
+They fit this society,
+this state of world,
+and this political landscape.
+They just do not fit their uniforms.
+
+Or perhaps, actually,
+in this country, 
+this is called "fit the true qualification of their uniform.
 
 <strong class="rd"> 也是。  
 連設計害人的事都幹得出來了，  
@@ -482,7 +594,19 @@ The cold fact.
   
 
 ## 高雄
+Kaohsiung 
 
+With my physical condition nearing collapse, I retreated to a relative's house, at least to be able to sleep for several days.
+
+Of course,
+At Kaohsiung Station, they shown themself as always to let you know the surveillance remains absolute.
+
+The absurdity of Kaohsiung's hospitals is negligible compared to my recent years. They are competent.
+
+If you've had bad experiences with major hospitals in Kaohsiung,
+in all fairness, 
+they are restraint.
+And he general public can't imagine how rare this kind of restraint is.
 當我身體狀況越來越差，幾乎到了難以為繼的程度時，我決定到親戚家休整幾天。至少，能夠睡幾天。  
 
 當然，  
@@ -499,7 +623,39 @@ The cold fact.
   
 
 ## 北榮
+Taipei Veterans General Hospital
 
+At the Taipei Veterans General Hospital ER, I repeatedly specified my pleural effusion and inability to lie flat.
+
+It took a respiratory and cardiopulmonary arrest of eight minutes for the attending physician to learn the effusion.
+
+It is irrational for an ER physician to observe massive edema and severe arrhythmia, ignore a patient's warning, and forcibly insist they lie flat.
+
+The outcome was immediate: cardiopulmonary arrest within five minutes. 
+
+No one was held accountable.
+
+Neither the abuse and visible physical scarring in the ICU,
+
+nor the entrapment at Fuzhou Bridge,
+
+no one had ever incurred any responsibility.
+
+A metabolism specialist treating a heart without interdepartmental consultation is similarly exempt from accountability.
+
+ I refuse to accept abstract political responsibility for legal expression. In short: I posted a critique during the Level 3 alert; I did not seek to step into politics.
+
+Thus, so many of you, one by one, group by group,
+consider yourself capable of acting with impunity.
+Indeed, No one is ever responsible.
+Police violate law. 
+Doctors violate ethics. 
+Power is being abused by everyone involved in my incidents
+But consequences are indeed absent.
+
+Taipei Veterans General Hospital is not an isolated incident.
+
+The strategic placement of patients in the ICU via fabricated justifications will recur.
 當我走進北榮急診，  
 我多次強調我是胸水，   
 我多次強調我不能躺。  
@@ -576,7 +732,12 @@ The cold fact.
 <br>  
 
 ## 亞東  
+Far Eastern Memorial Hospital
 
+Far Eastern differs entirely from Kaohsiung and Taipei Veterans.
+They are totally forced.
+Therefore,
+I will now speak harshly.
 亞東的情況與高雄、北榮完全不同。
 
 <span class="g">亞東是全然的不得已</span>  
@@ -605,24 +766,26 @@ The cold fact.
     padding-bottom: 1rem;
 ">
 
-<p style="position: absolute; left: 50%; transform: translate(-50%); font-size: 1.3rem;">讓我們回頭看看當時</p>
+<p style="position: absolute; left: 50%; transform: translate(-50%); font-size: 1.3rem;">讓我們回頭看看當時<br>
+Reviewing the timeline</p>
 
 <br><br>  
 
 httpR://health.ltn.com.tw/article/breakingnews/3569707
 <br>
 《健康網》亞東醫院收治全國11％重症！<br>
-
+《Health.ltn》FEMH handled 11% of national critical cases. <br>
 <br>  
 
 httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
-《火線任務》13天擴充48張新專責病床 扛起全國11％重症大責　從院內感染到收治冠軍 亞東醫院戰「疫」錄  
+《火線任務》13天擴充48張新專責病床 扛起全國11％重症大責　從院內感染到收治冠軍 亞東醫院戰「疫」錄 <br> 
+《businesstoday》 48 dedicated beds added in 13 days. From nosocomial infections to leading admission rates: FEMH Pandemic Records. 
 </div>
 
 <br>  
 
 一如既往，請自行將 httpR 改回 https 
-
+As usual, please replace the "httpR" to "https".
 
 板橋的
 
@@ -630,7 +793,21 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 <br>
 
 ## 板車
+Banqiao Station
 
+Consider their most stunningly incapable behaviors.
+
+Objective Fact:
+
+They planted the "habitual theft". They lied until the lie became their truth. They start to believe it is true. They continue to set traps for real habitual thieves to try to catch you steal while acting disgusted by habitual thieves.
+
+Individual delusion is one thing.
+Collective self deception among a connected, 
+active group performing acts divorced from reality with confidence will sear a permanent impression into normal peoples' brand:
+
+Collective distortion.
+A warped group,
+centered on law enforcement.
 大家知道，這些人最讓人瞠目結舌，   
 最讓人難以致信的<strong class="xb">低能</strong>是什麼嗎?
 
@@ -658,6 +835,44 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 
 
 ## 板捷
+Banqiao MRT Station
+
+
+
+Objective Fact:
+A lackey was sent to attack me at Banqiao MRT Station. I know he is a lackey because his first move was a "habitual thief" setup, as incapable as the others.
+
+My first report to the police was ineffective; I was attacked again in less than twelve hours.
+
+During the second report, two significant concerns arose:
+
+First, the attacker was permitted to stand directly behind the officers and eavesdrop on the entire conversation between myself and the police. He was even allowed to join the conversation.
+
+My first police report was ignored; I was attacked again within twelve hours.
+
+During the second report, the police allowed the attacker to stand behind them and join the conversation between me and the police. They further discouraged me from pursuing a lawsuit, claiming it would be pointless as the total compensation would only range from 300 to 500 NTD.
+
+
+Objective Fact:
+No comment on these points.
+Let society decide.
+
+
+Consequently, the lackey didn't stop;
+Calling the police COST HIM NOTHING and PROVIDED HIM NO DETERRENT.
+
+Why I let him continue?
+Why didn't I fight back?
+
+He is over seventy.
+
+Again, I offer no further evaluation
+and leave the judgment to the public upon reading the full text.
+
+This marks my third encounter with the police in recent years. all instances problematic and controversial, not just matter of opinion.
+
+
+Please consider I do mention the current political climate.
 
 【 客觀事實 】：
 > 他們派了一條走狗，在板捷多次對我動手。  
@@ -708,7 +923,38 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 
 
 ## 第四次
+Fourth Instance
 
+Final days of last year,
+I attempted to leave.
+I was found by themaintenance staff of the High Riverbank Construction Management Office under the New Taipei City Government.
+Temperature: 11°C.
+Attire: short sleeves.
+Exposure: four hours of rain.
+Condition: significant blood loss and hypothermia.
+
+I recall the ambulance. Police inquired about identification. I stated it was in the big black bag. I lost consciousness multiple times during this conversation.
+
+Objective Fact:
+While conscious, I witnessed paramedics removing my luggage from the vehicle. Post hospital, I recover all my luggage but my phone, power bank, and two forms of identification.
+
+The luggage consisted of a blue bag and two black bags (a big backpack and a shoulder bag). My two forms of identification were in the black shoulder bag, All were discarded.
+
+Mentioned or not, no attempt was made to check the contents for any bag. The police witnessed the disposal and remained silent.
+
+The belongings of a patient in critical condition in the suburbs were treated as disposable waste. 
+
+If my semi conscious state and subsequent confusion are being categorized as a "communication error," I find it impossible to see how the police or paramedic can justify that classification given the circumstances.
+
+If not, I find it even more unjustifiable that the police or paramedics removed my belongings from the ambulance.
+
+Again, my two forms of identification were in the black shoulder bag.
+
+By the way, the paramedic was from the New Taipei City Fire Department.
+
+
+
+This is the fourth time.
 去年年底我試過，  
 如果不是剛好遇上高灘工人在除草，  
 我已經離開了。   
@@ -772,6 +1018,123 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 
 
 ## 文化中心(江子翠圖書館)
+
+Cultural Center (Jiangzicui Library)
+
+
+During summer, I wash clothes at midnight or dawn and wear them wet to cool down and expedite drying.
+
+Objective Fact:
+I wear the same outfit, same sandals, and carry the same luggage all year round. I report to the library daily to sleep. 
+
+My status as homeless makes me an unattractive target for extortion.
+If someone was targeting me, he definitely had an ulterior motive.
+Even if he were actually homeless, he still would have had an ulterior motive.
+
+Unfortunately, he isn't homeless. At least, he wasn't before.
+
+After the water dispenser incident,
+I observed him.
+He changed into a completely new outfit every day,
+and sometimes even changed his sneakers.
+A homeless person can't affort that kind of lifestyle.
+
+A few days before this incident, right before the July typhoon days off, 
+he was even power walking in circles around the area where we were lining up.
+That is a sport typically for seniors. 
+I have never seen a homeless man do that.
+Neighter at Banqiao Station, nor at Taipei Main Station.
+
+He is not homeless. At least, he wasn't before the incident.
+
+Therefore,
+
+Object Fact:
+A man in his 60s previously caused a disturbance. While I was using the water dispenser for cold water,
+he interrupted me directly to get hot water. When I stopped him, he insulted me and challenged me to a fight downstairs. I ignored him due to his age.
+
+
+With powerful backing, without consequences,
+With calculated schemes, without intention to stop.
+
+
+The day after a typhoon holiday in the middle of July,
+I queued at the library.
+The same person walked over and bumped into me while I was standing still and using my smartphone.
+He blamed me for bumping into him, pushed me, and claimed he wanted to fight.
+He made short, incomplete punching and kicking motions without fully extending his arms or legs.
+I pushed him away and stepped back, twice.
+He continued advancing towards me.
+I pinned him to the ground, told him I would call the police, released him right away, then called the police.
+
+After I hung up, he attempted to film me.
+I took his phone to stop him from filming me, told him why I took his phone, then immediately returned it to him.
+He took the phone back and attempted to attack me, again.
+I pushed him away and stepped back, twice more, to keep the safe distance to avoid further confrontation, again.
+He insisted on his advancing towards me again and his brief, incomplete punching and kicking gestures, without actually carrying out full punching or kicking motions, again.
+then I pinned him to the ground again, and kept him there.
+
+He claimed "You are finished! I have relatives in the police force."
+When I asked him to verify this statement,
+a "kind stranger" intervened at just the right moment to prevent him from answering.
+
+This kind individual scolded the elderly man for being nosiy but I was the one who was asking questions.
+This kind individual scolded the elderly man for filming me and kept shouting for a while but kept staring directly into my eyes the whole time.
+
+The kind stranger proactively provided contact information to the police to serve as a witness, and then left.
+This kind individual arrived early and waited for the library to open, but neither joined the queue nor entered the library.
+
+Tt is common knowledge of many now,
+my life is full of inexplicable coincidences.
+Hindsight proves few are accidental.
+
+They are orchestrated.
+
+Of course the kid stranger would have some reason sounds reasonable at first, 
+just as reasonable as they would not send a short, slender elderly man to confront me by himself, there must be someone backing him behind the scenes.
+
+
+Then 2 police officers arrived just as the library opened.
+Both the elderly man and I entered the library to drop off our belongings. Meanwhile, 
+the kind stranger proactively spoke to the police officers while everyone in line was entering the library.
+No one knows what or how the kind stranger said.
+
+What a kind stranger.
+
+2 police separated us for questioning, which is very standard procedure.
+
+Just as you assumed calling the police would end the dispute, things became abnormal as usual, again.
+
+while I was talking to 1 police officer, the other officers came and stood shoulder-to-shoulder with the first, both facing me.
+After several minutes conversation, after I repeatedly stating I would not pursue the matter, after the conversation was finished, upon turning around, I saw the elderly man, who instigated the whole thing, standing just one step behind me, listen in on my conversation with the officers.
+
+
+The police officers saw him, knew it, allowed it.
+
+
+I have stated that I will not provide further evaluation. 
+But I must be clear: that's the instigator, he is the perpetrator.
+
+This is no longer an isolated case. 
+
+And also, I must be clear:
+
+After I realized the police permitted the perpetrator to monitor the very first step of the entire judicial process of the victim,
+
+how contradicted the fact that the police told me what they saw on the surveillance footage.
+
+how the police totally ignore I was bumped into while standing still.  
+  
+the police told me THE ONLY THING ON THE FOOTAGE IS MY PROVOCATION.
+
+and the 4:50 PM call demanding a statement at the police station at 8:00 AM the next morning. 
+
+
+I found myself not surprised at all.
+
+
+
+This is the fifth time.
 
 盛夏，我都在半夜或清晨洗衣服，  
 洗完直接穿在身上，一來順便降溫避署，  
@@ -938,6 +1301,13 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 
 
 
+I rarely evaluate; I usually advise.
+When I only evaluate, or offer nothing,
+
+Guess why I bother to advise.
+
+And why I don't for some.
+
 
 我極少評價，我通常是在勸。  
 當我沒勸只評價，甚至不給評價，  
@@ -949,6 +1319,37 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 
 
 <br><br>
+
+Unfortunately, the neighbor's guess was closer.
+
+
+I could, but I refuse.
+
+
+Dear readers, are you aware of the extent of the filth in society?
+
+Over the years, I have encountered the police at Fuzhou Bridge police, High Beach police, Daren Street, Jiangzicui, Fuzhong.
+Count the impartial ones among them.
+
+What does this kind of society imply?
+
+The timeline of this article is crystal clear for them.
+
+Yet, at 6 AM on October 25, the police were still spreading rumors.
+
+The lowest authority carries the highest and filthiest arrogance.
+
+What does this kind of society imply?
+
+A society where the filth are the loudest.
+
+A society where the filth are the most aggressive.
+
+A society where the those arrogant on the street are the all the filthy and corrupt.
+
+A society where the innocent public must endure, yield, keep a low profile. 
+
+Ever thought about what does our kind of society imply?
 
 可惜，隔壁的推測比較接近我的想法。  
 
@@ -977,6 +1378,27 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 代表著什麼，  
 大家想過嗎?  
 
+If everything happened all over again, 
+Would I do it again?
+
+Yes.
+
+Seeing ordinary people with no political connections indiscriminately left to die,
+I would still roar again.
+
+But I will try very hard to make sure such filth gains nothing from my commitment and sacrifice.
+
+Equality covers gender, religion, race, class, and party.
+But the constitution does not grant equal rights to those who insist on committing filthy acts and are vile to their core.
+
+Especially in national crises.
+
+Certain bastards advocated abandoning the elderly during the pandemic.
+
+I will exclude scum and lackeys from all my efforts and try everything I can to make sure there is sufficient public backing behind behind this exclusion.
+
+Was neighbor's guess closer?
+
 <strong class="rd">再來一次的話，  
 我會不會作同樣的事?    
 
@@ -999,6 +1421,17 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 
 <br><br>
 
+Misunderstanding.
+
+By “being myself,”
+
+I mean something like this post:
+
+exposure. 
+
+When you dare to do this in front of me,
+I dare to expose you. Simple.
+
 誤會，  
 
 我所謂的作我，  
@@ -1008,4 +1441,20 @@ httpR://www.businesstoday.com.tw/article/category/183027/post/202106230023/<br>
 <strong class="rd">揭露。  
 
 你敢在我面前搞這些，我就敢直接揭露。</strong>
+
+
+
+We all failed.
+We all let down.
+We all shamelessly deceive ourselves.
+Evenly,
+we shamelessly deride.
+
+
+我們都失敗了。
+我們都辜負了。
+我們都無恥地自欺欺人著。
+甚至，
+我們都更無恥地嘲笑著。
+
 
