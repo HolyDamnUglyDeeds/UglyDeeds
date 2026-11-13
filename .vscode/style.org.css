@@ -112,21 +112,26 @@ hr {
 h2 {
     border-bottom: 1px solid red !important;
     color: #fff;
+    font-size: 36px;
 }
 
 h3 {
     border-bottom: 1px solid #800 !important;
     color: #fff;
+    font-size: 24px;
 }
 
 .eh2 {
     font-size: 20px;
     font-weight: 700;
     color: #fff;
+    font-size: 36px;
 }
 
 .eh3 {
     font-size: 16px;
     font-weight: 700;
     color: #fff;
+    font-size: 24px;
 }
+

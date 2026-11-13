@@ -223,34 +223,43 @@ The cold fact.
 > 
 > <span class="g">持續到現在。</span>    
 > <span class="g">persistent, uninterrupted, ongoing surveillance and dissemination is sustained, even now.</span>   
+> <br>  
 > 
 > <span class="g">我在電子設備裡輸入的「每一個字」，</span>  
-> <span class="g">Every single words I type, /span>  
+> <span class="g">Every single words I type, </span>  
+> <br>  
 > 
 > <span class="g">我的私人筆記，</span>  
-> <span class="g">each of my personal notes,/span>  
+> <span class="g">each of my personal notes,</span>  
+> <br>  
 > 
 > <span class="g">我的私人寫作，</span>  
-> <span class="g">all my persional writings,/span>  
+> <span class="g">all my persional writings,</span>  
+> <br>  
 > 
 > <span class="g">我的私人通訊，</span>  
-> <span class="g">all my private conversations and communications, /span>  
+> <span class="g">all my private conversations and communications, </span>  
+> <br>  
 > 
 > <span class="g">而且是雙向散佈，</span>  
-> <span class="g">Is disseminated bidirectionally,/span>  
+> <span class="g">Is disseminated bidirectionally,</span>  
+> <br>  
 > 
 > <span class="g">我的私人數位內容，</span>  
-> <span class="g">All my private digital info and ontent,/span>  
+> <span class="g">All my private digital info and ontent,</span>  
+> <br>  
 > 
 > <span class="g">我的物理位置，</span>  
-> <span class="g">my each and every location,  /span>  
+> <span class="g">my each and every location,  </span>  
+> <br>  
 > 
 > <span class="g">我的舉止與言論</span>  
-> <span class="g">all my actions and words, /span>  
+> <span class="g">all my actions and words, </span>  
+> <br>  
 > 
 > <span class="g">全部都會被散佈</span>  
-> <span class="g">s dissemiated. /span>  
->
+> <span class="g">s dissemiated. </span>  
+> <br>  
 > <br> 
 >
 > <span class="g">甚至是跨國散佈</span>  
@@ -281,116 +290,190 @@ I don't know if anyone has ever submitted any differing opinions.
 
 我只知道   </strong>  
 But I know, 
+<br>
+<br>    
 
 <span class="g">從疫情到現在</span>   
 <span class="g">Since the COVID-19 pandemic, </span>    
+<br>  
 
 <span class="g">監控與散佈這件事</span>   
 <span class="g">the surveillance and disseminations, </span>    
+<br>  
 
 <span class="g">從來不曾被阻止</span>    
 <span class="g">never stopped,</span>     
+<br>  
 
 <span class="g">從來不曾被改變</span>    
 <span class="g">never changed.</span>      
-
+<br>  
 <br>  
 
 【 客觀事實 】：
 > <strong class="rd">沒人比你們更清楚，無論有多艱難  
 > Of all people, you know this best. No matter how hard it is,
+> 
 > <span class="g">我是什麼身份</span>  
-> who I am and what I am, 
+> <span class="g">who I am and what I am,</span>  
+> <br>   
+> 
 > <span class="g">我作過什麼</span>  
-> what I have done, 
+> <span class="g">what I have done, </span>  
+> <br>   
+> 
 > <span class="g">我沒作過什麼</span>  
-> what I have never done, 
+> <span class="g">what I have never done, </span>  
+> <br>   
+> 
 > <span class="g">我堅守著什麼</span>  
-> and what I hold like oathㄋ.
+> <span class="g">and what I hold like oaths.</span>  
+> <br>   
+> 
 > <span class="g">你們一個個、一群群又是什麼身份</span>  
-> Each and every one of you, what authority or office do you even claim?
+> <span class="g">Each and every one of you, what authority or office do you even claim?</span>  
+> <br>   
+> 
 > <span class="g">你們一個個，一群群，</span>  
-Each and every one of you,  
+> <span class="g">Each and every one of you,  </span>  
+> <br>   
+> 
 > <span class="g">又都堅持著，到處幹著些什麼</span>  
-While posturing in your official capacities, what filth and illegal atrocities do you persistently spread everywhere?
+<span class="g">While posturing in your official capacities, what filth and illegal atrocities do you persistently spread everywhere?</span>  
+<br>   
+
 </strong><br>  
 
 ### 恐嚇
+<p class="eh3">intimidation</p>
+<br>  
 
-眾所皆知，
-As is universally known,
-疫情時與疫情後，  
-during and after the pandemic，
-除了監控，除了完全符合字面意義的  
-aside from the surveillance, aside from the literal,
-<strong class="xb">殺氣騰騰</strong>的，  
-<strong class="xb">肅殺至極</strong>的,   
-stern and chill,
+眾所皆知，  
+As is universally known,  
+
+疫情時與疫情後，   
+during and after the pandemic，  
+
+除了監控，除了完全符合字面意義的    
+aside from the surveillance, aside from the literal  
+
+<strong class="xb">殺氣騰騰</strong>的，   
+ <strong class="xb">lethal menace and murderous intent,</strong>   
+
+<strong class="xb">肅殺至極</strong>的,    
+<strong class="xb">utterly chilling,</strong>,   
+
 還有居家的即時嗆聲與  
-there were also real time threats at my home,
+there were also real time threats at my home,  
+<br>
+
 <span class="g">一波又一波的</span>  
-wave upon wave of 
+<span class="g">wave upon wave of</span>   
+<br>  
 <span class="g">黑色恐嚇</span>  
-black terror.
+<span class="g">black terror.</span>  
+<br>  
 
 請問，   
-Tell me, 
+Tell me,   
+
 當你是一個身家清白，背景乾淨單純的   
 普通民眾。  
-when you are an ordinary citizen 
-with an impeccably clean record and a completely untainted background, 
+when you are an ordinary citizen with an impeccably clean record and a completely untainted background,   
+
+<br>  
 
 <span class="g">正因為，就因為</span>  
-precisely because, simply because 
+<span class="g">precisely because, simply because </span>  
+<br>  
 <span class="g">你是身家清白，背景乾淨單純的</span>  
-you are an ordinary citizen 
+<span class="g">you are an ordinary citizen </span>  
+<br>  
+ 
 <span class="g">普通民眾</span>  
+<span class="g">with an impeccably clean record and a completely untainted background, </span>  
+<br>  
 
-with an impeccably clean record and a completely untainted background,
+
 面對黑白兩邊，與來自於情治單位的肅殺與恐嚇，  
-以及  
-compounded by 
+facing the yielding hostility, chilling and intimidation from both the underworld and the authorities, plus the intelligence and security agencies,
+ 
 
-facing the yielding hostility, stern and intimidation from both the underworld and the authorities, plus the state security apparatus,
-unmasked collusion between officials and criminals, 
+以及  
+compounded by  
+
+
 <span class="g">絲毫不掩飾</span>  
+<span class="g">unmasked</span>    
+<br>  
+
 <span class="g">明擺著的黑白勾結</span>  
-你該怎麼辦?
-what are you supposed to do?
+<span class="g">collusion between officials and criminals,</span>  
+<br>  
+
+你該怎麼辦?  
+what are you supposed to do?  
 <br>  
 
 
 ### 自保
-Do not forget.
-There were organ harvesting advertisements tracking you online.
-Correct. Advertisements.
-Their deployment. Their arrangement. Their organization.
-What is your recourse?
-Aside from trying not to fall into their hands.
-What can you do?
-不要忘了，  
-當時還有，   
-<strong class="rd">在網路上到處緊跟著你的  </strong>
+<p class="eh3">Thwart </p>
+<br>
 
-<span class="g">活摘器官的廣告</span>  
-<span class="g">對 !</span>  
-<span class="g">是廣告。</span>  
-<span class="g">是他們的投放</span>  
+不要忘了，  
+Do not forget.  
+
+當時還有，   
+There were   
+
+<strong class="rd">在網路上到處緊跟著你的     
+<span class="g">活摘器官的廣告</span>     
+<span class="g">organ harvesting advertisements</span> tracking you online.</strong>   
+<br>  
+<br>
+
+<span class="g">對 !</span>    
+<span class="g">Correct. </span>    
+<br>  
+<span class="g">是廣告。</span>    
+<span class="g">Advertisements.</span>      
+<br>  
+<br>  
+
+<span class="g">是他們的投放</span>   
+<span class="g">Their deployment.</span>   
+<br>  
 <span class="g">是他們在張羅</span>  
+<span class="g">Their arrangement.</span>   
+<br>  
 <span class="g">是他們在組織</span>  
+<span class="g">Their organization.</span>   
+<br>  
+
 
 請問，  
+If you were me,   
+
 你能怎麼辦 ?   
+what can you do?  
+
 除了想辦法不落入他們手中  
+Aside from trying not to fall into their hands.  
+
 你還能怎麼辦 ?  
+What's your last ditch?
 
 <br>
 
 
 ## 流浪
+<p class="eh2">Drift</p>
+<br>  
 
-### 構陷
-The Setup.
+### 構陷  
+<p class="eh3">The Setup</p>
+<br>
+
 
 [Objective Facts]
 Under Fuzhou Bridge, I took your bait for kindness.
