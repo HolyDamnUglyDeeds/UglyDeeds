@@ -475,10 +475,9 @@ What's your last ditch?
 <br>
 
 
-[Objective Facts]
-Under Fuzhou Bridge, I took your bait for kindness.
-I left a note.
-I responded to the perceived goodwill.
+
+
+
 
 Subsequently, what did you do?
 
@@ -512,10 +511,18 @@ The most important thing I have been forced to learn these years:
 As long as staying in Banqiao, there will always be next planting the blame, framing, and setup
 
 【 客觀事實 】：
+Objective Facts
+
 > 當我在浮洲橋下，第一次，我將你們的餌，當成民眾的善意，  
+> Under Fuzhou Bridge, I took your bait for kindness.  
+> 
 > 我作了什麼?  
 > 我貼了張紙條，讓你們來找我  
+> I left a note.
+>
 > 我回應了民眾的善意。  
+> I responded to the perceived goodwill.
+<br>
 
 然後，你們作了什麼?  
 
