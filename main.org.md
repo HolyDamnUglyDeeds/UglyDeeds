@@ -870,17 +870,7 @@ how rare this kind of restraint is.
 
  I refuse to accept abstract political responsibility for legal expression. In short: I posted a critique during the Level 3 alert; I did not seek to step into politics.
 
-Thus, so many of you, one by one, group by group,
-consider yourself capable of acting with impunity.
-Indeed, No one is ever responsible.
-Police violate law. 
-Doctors violate ethics. 
-Power is being abused by everyone involved in my incidents
-But consequences are indeed absent.
 
-Taipei Veterans General Hospital is not an isolated incident.
-
-The strategic placement of patients in the ICU via fabricated justifications will recur.
 
 當我走進北榮急診，  
 At the Taipei Veterans General Hospital ER,  
@@ -940,42 +930,74 @@ and forcibly insist they lie flat.
 
 
 就因為我在疫情時與整個政府對立，   
+Simply because I opposed the government during the pandemic.  
 
 就因為我是平民，  
+Simply because I am a private citizen.  
 
 就因為我在網路發表言論，  
+Simply because I spoke online.  
 
 就因為我寫電子郵件要求國民黨善盡監督之責。  
+Simply because I emailed the KMT demanding oversight.  
 
 就因為我不屈服，  
+Simply because I did not yield.  
 
 就因為我認為人民沒有必要對自己合法正常合情理的言論承擔任何額外的，被加諸，被要求的極抽象政治責任。  
+Because I reject the notion that citizens must bear abstract political liabilities for lawful and reasonable speech.  
 
 白話文 ：我只是三級時在網路發表評價，就跟大家一樣，  
-當時入局不是我求來的。    
+In short: I posted an opinion during Level 3, as everyone did.   
 
+當時入局不是我求來的。    
+I did not seek this involvement.  
+   
 
 所以，你們這些人，  
+Thus, so many of you, 
+
 一個接一個，  
-一群接一群，  
+one by one, 
+
+
+
+一群接一群，
+group by group,
+
 全都覺得自己可以為所欲為。  
+consider yourself capable of acting with impunity.
 
 而且，也確實，  
-
+Indeed, 
 從來沒人為任何一件事負過任何責任。  
-
+No one is ever responsible for anything.
 
 <span class="g">當員警在幹著違背職務與違法的事，</span>  
+<span class="g">Police violate law and duty. </span>  
+<br>  
 
 <span class="g">當醫生在幹著違背倫理與法律的事，</span>  
+<span class="g">Doctors violate ethics and law. </span>  
+<br>  
 
 <span class="g">當這整件事曾參與的人，</span>  
-
 <span class="g">人人濫權卻人人無責，</span>  
-
 <span class="g">因為沒人有後果，</span>  
+<span class="g">Power is being abused by everyone involved in my incidents
+But consequences are indeed absent.</span>  
+<br>  
 
 <span class="g">北榮絕對不會是最後一次。</span>  
+<span class="g">Taipei Veterans General Hospital is not an isolated incident.</span>  
+<br>  
+
+<span class="g">醫師歡樂地腦力激蕩著將病患送進 ICU 的理由，也不會是最後一次</span>  
+<span class="g">Physicians are cheerfully brainstorming justifications for ICU admissions. This will not be the last time either.</span>  
+<br>  
+
+
+<!-- #endregion -->
 
 <br>  
 
