@@ -218,9 +218,10 @@ As long as they desire it,
 【 客觀事實 】：
 The cold fact.
 
-> 從疫情時開始
-> Since the COVID-19 pandemic,
-> <span class="g">持續到現在。</span>  
+> 從疫情時開始  
+> Since the COVID-19 pandemic,  
+> 
+> <span class="g">持續到現在。</span>    
 > <span class="g">persistent, uninterrupted, ongoing surveillance and dissemination is sustained, even now.</span>   
 > 
 > <span class="g">我在電子設備裡輸入的「每一個字」，</span>  
